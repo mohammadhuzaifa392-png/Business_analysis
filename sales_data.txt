@@ -1,0 +1,1001 @@
+OrderID	Product	Category	Price	Quantity	Amount	OrderDate	DeliveryDate	City	CustomerName	Gender	Age	PaymentMethod	Rating
+1	Notebook	Stationery	46632.11	1	46632.11	2024-07-07	2024-07-14	Bengaluru	Priya	Female	34	Cash on Delivery	5
+2	Bag	Accessories	43242.28	7	129726.84	2024-08-07	2024-08-11	Chennai	Fatima	Female	53	Debit Card	5
+3	Monitor	Electronics	5752.71	6	28763.55	2024-04-27	2024-05-02	Bengaluru	Arjun	Female	34	Cash on Delivery	1
+4	Keyboard	Electronics	12026.42	5	60132.1	2023-06-23	2023-07-03	Kolkata	Imran	Female	24	UPI	4
+5	Printer	Electronics	29908.85	5	149544.25	2023-02-11	2023-02-14	Jaipur	Sana	Male	41	Cash on Delivery	5
+6	Mouse	Electronics	19163.84	1	19163.84	2023-07-19	2023-07-29	Bengaluru	Meena	Female	55	Cash on Delivery	2
+7	Notebook	Stationery	16371.82	2	32743.64	2023-05-28	2023-06-05	Kolkata	Neha	Female	26	UPI	3
+8	Laptop	Electronics	20862.62	5	104313.1	2023-01-14	2023-01-18	Jaipur	Arjun	Female	44	Debit Card	2
+9	Printer	Electronics	19695.17	3	59085.51	2024-05-04	2024-05-14	Hyderabad	Shoaib	Male	26	UPI	3
+10	Keyboard	Electronics	49063.57	5	245317.85	2023-06-16	2023-06-26	Chennai	Ravi	Female	50	Credit Card	1
+11	Printer	Electronics	40354.39	5	201771.95	2023-06-22	2023-06-27	Hyderabad	Nikhil	Male	24	Cash on Delivery	5
+12	Monitor	Electronics	22866.27	1	22866.27	2023-06-20	2023-06-28	Bengaluru	Imran	Male	46	UPI	3
+13	Bag	Accessories	36782.24	2	73564.48	2024-07-18	2024-07-27	Mumbai	Kavita	Female	44	Cash on Delivery	4
+14	Desk	Furniture	23411.36	4	93645.44	2024-06-24	2024-06-30	Bengaluru	Sneha	Female	40	Credit Card	1
+15	Printer	Electronics	6722.05	1	6722.05	2024-03-27	2024-04-04	Kolkata	Arjun	Male	55	UPI	3
+16	Desk	Furniture	9110.43	5	45552.15	2023-11-15	2023-11-23	Kolkata	Meena	Male	38	Credit Card	3
+17	Laptop	Electronics	43380.84	5	216904.2	2024-05-17	2024-05-19	Chennai	Neha	Male	21	UPI	2
+18	Pen	Stationery	48072.04	3	144216.12	2023-11-24	2023-12-01	Hyderabad	Priya	Female	58	Net Banking	3
+19	Mouse	Electronics	38744.63	3	116233.89	2024-01-21	2024-01-24	Bengaluru	Neha	Male	47	Cash on Delivery	1
+20	Laptop	Electronics	21374.96	4	85499.84	2024-01-22	2024-01-24	Delhi	Imran	Male	41	Debit Card	1
+21	Monitor	Electronics	39396.41	2	78792.82	2024-03-01	2024-03-03	Bengaluru	Nikhil	Male	50	UPI	1
+22	Mouse	Electronics	109.94	4	439.76	2023-08-10	2023-08-16	Bengaluru	Kavita	Female	27	Credit Card	5
+23	Pen	Stationery	43791.09	1	43791.09	2023-10-29	2023-10-31	Chennai	Amit	Female	24	UPI	5
+24	Notebook	Stationery	37146.95	5	185734.75	2023-11-16	2023-11-25	Jaipur	Imran	Male	40	Net Banking	5
+25	Chair	Furniture	14831.39	2	29662.78	2024-04-11	2024-04-13	Delhi	Neha	Female	20	Debit Card	2
+26	Printer	Electronics	8099.69	1	8099.69	2023-09-21	2023-09-26	Jaipur	Amit	Female	44	Cash on Delivery	2
+27	Mouse	Electronics	26335.68	1	26335.68	2024-07-05	2024-07-13	Bengaluru	Rahul	Male	34	Net Banking	4
+28	Desk	Furniture	28166.5	5	140832.5	2023-02-11	2023-02-19	Pune	Vikram	Female	27	Net Banking	5
+29	Printer	Electronics	4590.13	3	13770.39	2024-07-19	2024-07-27	Delhi	Shoaib	Female	37	UPI	4
+30	Chair	Furniture	38201.3	4	152805.2	2023-12-10	2023-12-15	Chennai	Ravi	Male	55	Credit Card	2
+31	Printer	Electronics	2980.41	3	8941.23	2023-01-19	2023-01-26	Pune	Sana	Female	18	Net Banking	3
+32	Bag	Accessories	26269.24	1	26269.24	2023-02-11	2023-02-19	Chennai	Rahul	Male	37	Credit Card	4
+33	Bag	Accessories	34971.5	2	69943.0	2023-03-21	2023-03-27	Mumbai	Nikhil	Female	46	Net Banking	5
+34	Mouse	Electronics	1130.27	5	5651.35	2024-04-13	2024-04-18	Pune	Priya	Male	38	Net Banking	3
+35	Desk	Furniture	8797.87	5	43989.35	2024-07-26	2024-08-03	Kolkata	Vikram	Male	60	UPI	4
+36	Printer	Electronics	40341.83	1	40341.83	2023-06-08	2023-06-17	Bengaluru	Neha	Female	48	Credit Card	3
+37	Laptop	Electronics	44938.8	2	89877.6	2023-10-17	2023-10-27	Mumbai	Ravi	Female	36	Cash on Delivery	3
+38	Notebook	Stationery	24698.29	5	123491.45	2024-03-22	2024-03-30	Bengaluru	Arjun	Male	24	Debit Card	2
+39	Desk	Furniture	1303.06	5	6515.3	2023-11-28	2023-12-08	Delhi	Shoaib	Male	30	UPI	5
+40	Mouse	Electronics	39608.77	3	118826.31	2024-01-04	2024-01-08	Mumbai	Shoaib	Male	55	Net Banking	4
+41	Mouse	Electronics	20474.05	2	40948.1	2024-03-07	2024-03-13	Bengaluru	Imran	Male	56	UPI	5
+42	Notebook	Stationery	35608.62	5	178043.1	2023-02-08	2023-02-18	Hyderabad	Sneha	Female	39	Debit Card	3
+43	Bag	Accessories	9095.13	3	27285.39	2023-02-02	2023-02-12	Kolkata	Shoaib	Male	36	Debit Card	2
+44	Notebook	Stationery	21991.8	4	87967.2	2023-08-06	2023-08-16	Pune	Imran	Male	33	Cash on Delivery	2
+45	Monitor	Electronics	8250.61	1	8250.61	2024-08-11	2024-08-16	Mumbai	Priya	Female	38	UPI	2
+46	Printer	Electronics	28478.23	3	85434.69	2023-08-01	2023-08-03	Mumbai	Priya	Male	55	Debit Card	5
+47	Keyboard	Electronics	49462.94	2	98925.88	2024-05-23	2024-05-30	Kolkata	Arjun	Female	47	UPI	1
+48	Chair	Furniture	37859.78	1	37859.78	2024-04-07	2024-04-17	Bengaluru	Sana	Male	54	Cash on Delivery	2
+49	Mouse	Electronics	30811.68	2	61623.36	2024-04-23	2024-05-02	Jaipur	Vikram	Female	29	Net Banking	2
+50	Chair	Furniture	19103.87	1	19103.87	2023-03-08	2023-03-13	Bengaluru	Kavita	Female	37	Cash on Delivery	1
+51	Printer	Electronics	42362.41	5	211812.05	2023-10-19	2023-10-26	Bengaluru	Meena	Male	36	Credit Card	2
+52	Mouse	Electronics	38340.7	2	76681.4	2023-11-01	2023-11-06	Mumbai	Rahul	Male	29	Credit Card	1
+53	Bag	Accessories	47029.38	2	94058.76	2023-02-01	2023-02-06	Bengaluru	Shoaib	Male	45	Cash on Delivery	3
+54	Chair	Furniture	49339.53	4	197358.12	2024-05-23	2024-05-30	Mumbai	Priya	Male	57	Net Banking	3
+55	Bag	Accessories	21425.84	5	107129.2	2023-06-07	2023-06-13	Chennai	Imran	Male	30	Cash on Delivery	4
+56	Printer	Electronics	6171.86	1	6171.86	2023-01-05	2023-01-10	Hyderabad	Kavita	Female	36	UPI	3
+57	Bag	Accessories	13566.76	4	54267.04	2023-11-30	2023-12-06	Chennai	Arjun	Male	29	Net Banking	3
+58	Notebook	Stationery	8123.14	3	24369.42	2023-08-17	2023-08-22	Chennai	Nikhil	Female	42	Credit Card	5
+59	Keyboard	Electronics	30741.54	1	30741.54	2023-01-05	2023-01-14	Hyderabad	Arjun	Female	52	Debit Card	2
+60	Keyboard	Electronics	27640.22	5	138201.1	2024-04-06	2024-04-12	Jaipur	Fatima	Female	57	UPI	5
+61	Monitor	Electronics	10698.67	5	53493.35	2023-02-05	2023-02-12	Pune	Kavita	Male	30	Credit Card	4
+62	Mouse	Electronics	44577.74	1	44577.74	2023-01-03	2023-01-08	Pune	Fatima	Male	18	Debit Card	5
+63	Pen	Stationery	44060.93	2	88121.86	2023-02-13	2023-02-16	Bengaluru	Priya	Male	30	Debit Card	1
+64	Bag	Accessories	42904.89	4	171619.56	2023-12-01	2023-12-08	Chennai	Neha	Female	41	Net Banking	3
+65	Mouse	Electronics	2986.12	2	5972.24	2023-06-09	2023-06-11	Pune	Arjun	Female	50	Cash on Delivery	4
+66	Bag	Accessories	15611.3	3	46833.9	2023-08-05	2023-08-07	Mumbai	Sneha	Male	44	UPI	4
+67	Printer	Electronics	12051.52	4	48206.08	2023-04-15	2023-04-17	Delhi	Meena	Female	20	Net Banking	2
+68	Notebook	Stationery	6668.78	3	20006.34	2023-10-17	2023-10-27	Chennai	Fatima	Male	51	Cash on Delivery	4
+69	Desk	Furniture	41554.81	5	207774.05	2023-10-19	2023-10-22	Pune	Sana	Male	48	Cash on Delivery	5
+70	Chair	Furniture	9855.79	5	49278.95	2023-03-01	2023-03-08	Chennai	Vikram	Female	42	Cash on Delivery	4
+71	Mouse	Electronics	41040.24	3	123120.72	2023-12-28	2024-01-07	Hyderabad	Ravi	Female	27	Debit Card	1
+72	Desk	Furniture	15364.7	1	15364.7	2024-02-23	2024-03-04	Mumbai	Nikhil	Female	24	Credit Card	4
+73	Notebook	Stationery	7402.94	5	37014.7	2024-05-28	2024-06-03	Mumbai	Sana	Male	30	Debit Card	4
+74	Laptop	Electronics	40521.7	3	121565.1	2023-01-12	2023-01-22	Chennai	Rahul	Female	45	Cash on Delivery	1
+75	Chair	Furniture	8853.61	4	35414.44	2024-03-28	2024-04-04	Hyderabad	Arjun	Male	25	UPI	4
+76	Chair	Furniture	44415.3	4	177661.2	2024-03-16	2024-03-26	Pune	Meena	Male	19	Net Banking	4
+77	Keyboard	Electronics	36264.2	4	145056.8	2024-06-26	2024-07-05	Hyderabad	Fatima	Male	44	Cash on Delivery	5
+78	Monitor	Electronics	20010.44	5	100052.2	2023-01-25	2023-02-01	Chennai	Rahul	Female	42	Credit Card	1
+79	Mouse	Electronics	41754.46	4	167017.84	2024-03-13	2024-03-18	Chennai	Shoaib	Male	54	Cash on Delivery	5
+80	Bag	Accessories	22425.45	3	67276.35	2023-04-17	2023-04-21	Bengaluru	Rahul	Male	56	Debit Card	4
+81	Desk	Furniture	36231.85	2	72463.7	2023-03-28	2023-04-04	Chennai	Shoaib	Male	51	Net Banking	3
+82	Printer	Electronics	3074.88	2	6149.76	2023-12-04	2023-12-11	Hyderabad	Amit	Female	46	Net Banking	5
+83	Chair	Furniture	2834.02	4	11336.08	2023-02-27	2023-03-05	Bengaluru	Fatima	Male	35	Credit Card	3
+84	Monitor	Electronics	39317.59	1	39317.59	2024-05-13	2024-05-22	Chennai	Imran	Male	41	UPI	1
+85	Mouse	Electronics	28696.69	2	57393.38	2024-03-12	2024-03-14	Kolkata	Sana	Male	24	Debit Card	5
+86	Desk	Furniture	30013.66	1	30013.66	2024-07-29	2024-07-31	Pune	Nikhil	Female	44	Net Banking	4
+87	Mouse	Electronics	40506.98	2	81013.96	2024-06-03	2024-06-09	Mumbai	Amit	Male	39	Cash on Delivery	4
+88	Bag	Accessories	18158.43	1	18158.43	2024-03-03	2024-03-05	Chennai	Neha	Male	20	Debit Card	1
+89	Mouse	Electronics	17218.32	4	68873.28	2023-03-28	2023-04-03	Pune	Amit	Female	19	Cash on Delivery	3
+90	Bag	Accessories	8801.92	4	35207.68	2023-07-25	2023-07-31	Delhi	Ravi	Male	28	Debit Card	4
+91	Monitor	Electronics	8046.84	5	40234.2	2023-09-25	2023-10-05	Hyderabad	Sana	Male	57	Credit Card	1
+92	Keyboard	Electronics	24798.72	5	123993.6	2023-11-23	2023-11-29	Delhi	Neha	Male	55	Net Banking	1
+93	Printer	Electronics	13915.95	5	69579.75	2023-02-15	2023-02-24	Bengaluru	Imran	Female	30	Credit Card	4
+94	Notebook	Stationery	48539.67	2	97079.34	2023-06-20	2023-06-29	Hyderabad	Imran	Male	21	Cash on Delivery	1
+95	Printer	Electronics	46147.2	1	46147.2	2024-06-23	2024-06-27	Chennai	Fatima	Male	53	Net Banking	5
+96	Printer	Electronics	15134.92	1	15134.92	2024-02-04	2024-02-07	Pune	Fatima	Male	55	UPI	3
+97	Monitor	Electronics	45033.61	5	225168.05	2023-07-13	2023-07-16	Delhi	Rahul	Female	37	Net Banking	5
+98	Laptop	Electronics	37997.78	1	37997.78	2024-01-21	2024-01-30	Pune	Sneha	Male	21	Debit Card	1
+99	Printer	Electronics	24255.09	1	24255.09	2023-06-01	2023-06-08	Jaipur	Sneha	Female	51	Cash on Delivery	3
+100	Mouse	Electronics	33397.36	2	66794.72	2024-05-02	2024-05-10	Bengaluru	Meena	Male	54	Net Banking	4
+101	Bag	Accessories	38017.32	5	190086.6	2024-07-21	2024-07-23	Mumbai	Ravi	Male	26	Debit Card	4
+102	Laptop	Electronics	38254.4	2	76508.8	2024-01-19	2024-01-29	Chennai	Sneha	Female	48	Cash on Delivery	3
+103	Keyboard	Electronics	20100.59	3	60301.77	2023-05-16	2023-05-26	Delhi	Sana	Male	47	Credit Card	3
+104	Bag	Accessories	372.85	1	372.85	2024-07-05	2024-07-13	Delhi	Vikram	Male	39	Cash on Delivery	5
+105	Pen	Stationery	24043.09	4	96172.36	2024-01-17	2024-01-27	Bengaluru	Arjun	Male	24	Credit Card	4
+106	Bag	Accessories	20804.51	3	62413.53	2023-11-21	2023-12-01	Kolkata	Shoaib	Male	60	UPI	2
+107	Desk	Furniture	34029.95	5	170149.75	2023-10-22	2023-10-28	Pune	Fatima	Male	21	Net Banking	4
+108	Keyboard	Electronics	40538.85	4	162155.4	2024-06-13	2024-06-20	Kolkata	Arjun	Female	35	UPI	1
+109	Notebook	Stationery	32395.39	5	161976.95	2024-07-03	2024-07-10	Delhi	Shoaib	Male	32	Cash on Delivery	4
+110	Keyboard	Electronics	11043.61	1	11043.61	2023-02-06	2023-02-15	Hyderabad	Ravi	Female	25	Net Banking	1
+111	Bag	Accessories	15732.72	2	31465.44	2023-12-12	2023-12-17	Delhi	Nikhil	Female	36	Cash on Delivery	2
+112	Mouse	Electronics	39974.2	4	159896.8	2024-02-28	2024-03-05	Jaipur	Kavita	Male	51	Net Banking	1
+113	Desk	Furniture	37977.04	5	189885.2	2024-01-12	2024-01-20	Hyderabad	Fatima	Male	41	Net Banking	2
+114	Pen	Stationery	3990.21	1	3990.21	2023-12-09	2023-12-19	Delhi	Ravi	Female	25	Cash on Delivery	5
+115	Mouse	Electronics	20011.73	2	40023.46	2023-05-22	2023-05-30	Bengaluru	Vikram	Female	31	Debit Card	5
+116	Monitor	Electronics	42623.36	3	127870.08	2023-01-02	2023-01-11	Bengaluru	Vikram	Female	34	Cash on Delivery	5
+117	Mouse	Electronics	35284.13	1	35284.13	2023-07-13	2023-07-21	Pune	Shoaib	Male	26	Credit Card	5
+118	Notebook	Stationery	18324.07	5	91620.35	2024-04-04	2024-04-14	Kolkata	Neha	Female	47	Net Banking	4
+119	Notebook	Stationery	6076.42	4	24305.68	2023-12-24	2024-01-01	Bengaluru	Imran	Female	59	Debit Card	4
+120	Notebook	Stationery	19311.67	4	77246.68	2024-06-19	2024-06-28	Bengaluru	Meena	Male	31	UPI	5
+121	Chair	Furniture	15227.43	3	45682.29	2023-01-23	2023-02-01	Jaipur	Ravi	Male	41	Debit Card	2
+122	Notebook	Stationery	47016.09	4	188064.36	2024-06-21	2024-06-24	Jaipur	Sana	Male	37	Credit Card	2
+123	Laptop	Electronics	16668.39	1	16668.39	2023-07-01	2023-07-04	Kolkata	Sneha	Male	57	Net Banking	4
+124	Pen	Stationery	25164.68	4	100658.72	2023-06-12	2023-06-17	Chennai	Arjun	Male	35	Credit Card	5
+125	Notebook	Stationery	47011.2	3	141033.6	2023-10-16	2023-10-23	Jaipur	Priya	Male	31	Net Banking	2
+126	Mouse	Electronics	5745.1	1	5745.1	2023-07-24	2023-07-27	Chennai	Priya	Male	52	UPI	2
+127	Mouse	Electronics	18515.67	4	74062.68	2023-03-02	2023-03-05	Mumbai	Nikhil	Male	34	Debit Card	2
+128	Keyboard	Electronics	14825.82	5	74129.1	2023-01-14	2023-01-19	Delhi	Vikram	Female	21	Net Banking	1
+129	Notebook	Stationery	37385.35	4	149541.4	2024-02-10	2024-02-19	Chennai	Ravi	Female	42	Credit Card	2
+130	Printer	Electronics	28739.25	2	57478.5	2023-09-17	2023-09-23	Kolkata	Arjun	Female	18	Debit Card	3
+131	Laptop	Electronics	30733.25	1	30733.25	2023-04-21	2023-04-23	Kolkata	Vikram	Female	23	Debit Card	2
+132	Bag	Accessories	45343.47	3	136030.41	2024-03-28	2024-04-07	Bengaluru	Priya	Male	36	Debit Card	2
+133	Monitor	Electronics	5203.99	5	26019.95	2024-07-06	2024-07-11	Delhi	Vikram	Male	37	Debit Card	5
+134	Bag	Accessories	12849.25	1	12849.25	2024-04-16	2024-04-23	Delhi	Vikram	Female	47	Net Banking	1
+135	Desk	Furniture	16198.24	3	48594.72	2024-04-10	2024-04-14	Kolkata	Imran	Male	29	Debit Card	2
+136	Desk	Furniture	28293.04	3	84879.12	2023-07-07	2023-07-14	Hyderabad	Nikhil	Female	34	Cash on Delivery	3
+137	Chair	Furniture	36920.76	4	147683.04	2023-10-27	2023-11-03	Mumbai	Sana	Male	46	Credit Card	1
+138	Desk	Furniture	11529.47	2	23058.94	2023-09-07	2023-09-16	Delhi	Priya	Male	33	Credit Card	2
+139	Monitor	Electronics	36788.51	4	147154.04	2023-08-23	2023-08-27	Chennai	Vikram	Male	37	Credit Card	5
+140	Desk	Furniture	43711.16	3	131133.48	2023-07-23	2023-07-25	Chennai	Nikhil	Female	28	Debit Card	4
+141	Desk	Furniture	27873.18	3	83619.54	2024-02-26	2024-03-05	Kolkata	Amit	Female	33	Net Banking	4
+142	Notebook	Stationery	38243.96	1	38243.96	2023-05-23	2023-05-29	Mumbai	Arjun	Female	60	UPI	4
+143	Chair	Furniture	49177.11	3	147531.33	2023-09-19	2023-09-28	Bengaluru	Imran	Male	53	Debit Card	1
+144	Keyboard	Electronics	22824.45	1	22824.45	2023-05-17	2023-05-22	Kolkata	Neha	Male	57	UPI	4
+145	Notebook	Stationery	30934.08	4	123736.32	2024-03-24	2024-03-30	Jaipur	Ravi	Female	41	Credit Card	3
+146	Chair	Furniture	45556.37	2	91112.74	2024-06-12	2024-06-15	Chennai	Priya	Female	36	Cash on Delivery	4
+147	Printer	Electronics	19964.05	4	79856.2	2023-12-01	2023-12-06	Hyderabad	Ravi	Female	52	UPI	2
+148	Pen	Stationery	40670.67	2	81341.34	2024-04-07	2024-04-09	Mumbai	Sana	Male	20	Cash on Delivery	2
+149	Laptop	Electronics	48903.87	4	195615.48	2023-11-03	2023-11-09	Hyderabad	Meena	Female	46	Debit Card	4
+150	Laptop	Electronics	40991.35	3	122974.05	2024-08-12	2024-08-21	Mumbai	Fatima	Male	47	Cash on Delivery	1
+151	Chair	Furniture	7175.86	4	28703.44	2024-05-20	2024-05-27	Hyderabad	Priya	Female	32	Debit Card	2
+152	Mouse	Electronics	31260.04	1	31260.04	2024-03-15	2024-03-19	Bengaluru	Neha	Male	47	Net Banking	4
+153	Printer	Electronics	20210.79	3	60632.37	2024-04-30	2024-05-10	Pune	Rahul	Female	36	Debit Card	4
+154	Desk	Furniture	27747.51	4	110990.04	2023-05-21	2023-05-26	Mumbai	Priya	Female	41	Cash on Delivery	4
+155	Laptop	Electronics	41371.8	2	82743.6	2023-02-01	2023-02-09	Bengaluru	Sneha	Female	52	Cash on Delivery	4
+156	Chair	Furniture	9804.86	5	49024.3	2023-06-12	2023-06-20	Mumbai	Vikram	Male	49	UPI	2
+157	Monitor	Electronics	21124.82	5	105624.1	2023-05-20	2023-05-26	Jaipur	Arjun	Male	29	Cash on Delivery	3
+158	Printer	Electronics	45792.21	5	228961.05	2024-01-16	2024-01-26	Hyderabad	Arjun	Male	53	Net Banking	4
+159	Notebook	Stationery	41616.05	2	83232.1	2023-08-09	2023-08-18	Delhi	Vikram	Female	37	Debit Card	2
+160	Chair	Furniture	2462.33	1	2462.33	2024-04-29	2024-05-07	Kolkata	Sana	Male	38	Debit Card	5
+161	Desk	Furniture	12894.89	5	64474.45	2024-04-25	2024-05-02	Pune	Sneha	Male	60	UPI	4
+162	Laptop	Electronics	32875.79	3	98627.37	2023-06-02	2023-06-09	Kolkata	Nikhil	Male	36	Credit Card	4
+163	Chair	Furniture	5031.01	3	15093.03	2023-06-06	2023-06-12	Pune	Sana	Male	37	Credit Card	5
+164	Chair	Furniture	11688.21	1	11688.21	2023-03-16	2023-03-25	Hyderabad	Sneha	Male	29	Credit Card	3
+165	Desk	Furniture	12770.03	3	38310.09	2023-09-11	2023-09-20	Hyderabad	Fatima	Female	41	UPI	4
+166	Notebook	Stationery	4473.17	4	17892.68	2023-08-09	2023-08-17	Mumbai	Ravi	Male	59	Debit Card	4
+167	Bag	Accessories	32627.9	2	65255.8	2023-08-24	2023-08-31	Kolkata	Ravi	Male	28	UPI	5
+168	Mouse	Electronics	33057.48	3	99172.44	2023-11-19	2023-11-22	Hyderabad	Fatima	Female	48	Net Banking	4
+169	Mouse	Electronics	47631.44	5	238157.2	2023-07-11	2023-07-21	Bengaluru	Sana	Male	34	Net Banking	1
+170	Notebook	Stationery	45700.46	5	228502.3	2023-05-16	2023-05-24	Bengaluru	Sneha	Female	23	Debit Card	4
+171	Keyboard	Electronics	8917.07	1	8917.07	2024-03-21	2024-03-25	Chennai	Rahul	Female	45	Net Banking	5
+172	Printer	Electronics	35261.15	1	35261.15	2024-08-21	2024-08-23	Pune	Meena	Male	25	Cash on Delivery	4
+173	Bag	Accessories	2171.77	4	8687.08	2023-09-27	2023-10-05	Pune	Sneha	Female	55	Cash on Delivery	4
+174	Laptop	Electronics	1657.96	2	3315.92	2024-02-01	2024-02-11	Chennai	Priya	Female	38	Cash on Delivery	4
+175	Pen	Stationery	336.73	2	673.46	2023-06-05	2023-06-09	Chennai	Priya	Male	21	Net Banking	2
+176	Pen	Stationery	5983.46	1	5983.46	2023-02-27	2023-03-07	Jaipur	Sneha	Female	36	Cash on Delivery	1
+177	Pen	Stationery	47913.81	2	95827.62	2023-05-13	2023-05-16	Pune	Arjun	Male	39	Debit Card	3
+178	Laptop	Electronics	45843.83	4	183375.32	2023-11-24	2023-12-04	Bengaluru	Neha	Female	44	UPI	2
+179	Notebook	Stationery	1762.35	4	7049.4	2023-11-06	2023-11-08	Mumbai	Amit	Female	26	Net Banking	1
+180	Chair	Furniture	3583.49	2	7166.98	2023-12-18	2023-12-23	Kolkata	Rahul	Male	60	Net Banking	5
+181	Chair	Furniture	29962.9	3	89888.7	2024-05-06	2024-05-15	Mumbai	Neha	Female	30	Net Banking	2
+182	Bag	Accessories	7524.6	5	37623.0	2024-01-26	2024-02-04	Chennai	Shoaib	Female	46	Debit Card	5
+183	Monitor	Electronics	25890.26	2	51780.52	2024-04-17	2024-04-19	Mumbai	Neha	Female	20	Net Banking	3
+184	Bag	Accessories	47437.63	5	237188.15	2023-07-19	2023-07-22	Hyderabad	Vikram	Female	59	Credit Card	4
+185	Mouse	Electronics	18148.43	5	90742.15	2023-09-27	2023-09-29	Pune	Nikhil	Female	39	UPI	3
+186	Bag	Accessories	22447.05	5	112235.25	2023-03-01	2023-03-04	Mumbai	Vikram	Female	43	Credit Card	1
+187	Bag	Accessories	24887.14	3	74661.42	2023-12-30	2024-01-03	Hyderabad	Priya	Female	37	Cash on Delivery	5
+188	Printer	Electronics	29518.17	4	118072.68	2024-03-05	2024-03-07	Delhi	Priya	Female	41	Debit Card	1
+189	Pen	Stationery	13555.0	3	40665.0	2023-03-19	2023-03-24	Pune	Neha	Female	21	UPI	4
+190	Mouse	Electronics	49788.62	5	248943.1	2024-06-05	2024-06-15	Hyderabad	Amit	Male	40	UPI	2
+191	Bag	Accessories	46419.16	5	232095.8	2023-11-06	2023-11-14	Chennai	Fatima	Female	40	UPI	2
+192	Printer	Electronics	46991.54	5	234957.7	2024-01-23	2024-01-26	Kolkata	Priya	Female	56	Debit Card	2
+193	Printer	Electronics	3741.06	5	18705.3	2024-08-21	2024-08-29	Chennai	Nikhil	Male	50	Credit Card	3
+194	Mouse	Electronics	31602.63	2	63205.26	2024-03-05	2024-03-12	Bengaluru	Shoaib	Male	46	UPI	5
+195	Mouse	Electronics	39531.2	1	39531.2	2023-08-10	2023-08-15	Mumbai	Shoaib	Female	26	Credit Card	5
+196	Laptop	Electronics	4675.82	3	14027.46	2024-04-27	2024-05-03	Chennai	Fatima	Male	26	Credit Card	3
+197	Pen	Stationery	4617.7	2	9235.4	2024-04-09	2024-04-14	Pune	Sneha	Male	27	Cash on Delivery	2
+198	Chair	Furniture	979.65	2	1959.3	2024-05-15	2024-05-18	Chennai	Nikhil	Male	23	Credit Card	4
+199	Printer	Electronics	19250.65	5	96253.25	2024-06-30	2024-07-10	Hyderabad	Imran	Male	47	UPI	5
+200	Pen	Stationery	45506.22	4	182024.88	2023-04-02	2023-04-04	Hyderabad	Arjun	Female	47	Net Banking	5
+201	Pen	Stationery	10630.83	1	10630.83	2024-07-17	2024-07-19	Mumbai	Sana	Male	37	Cash on Delivery	2
+202	Notebook	Stationery	340.2	2	680.4	2023-07-31	2023-08-10	Mumbai	Arjun	Male	31	Cash on Delivery	5
+203	Pen	Stationery	16057.53	4	64230.12	2024-07-10	2024-07-16	Delhi	Arjun	Male	50	Debit Card	3
+204	Keyboard	Electronics	9518.54	1	9518.54	2024-01-31	2024-02-05	Mumbai	Sana	Male	60	Debit Card	4
+205	Keyboard	Electronics	21412.55	4	85650.2	2023-01-21	2023-01-28	Kolkata	Arjun	Female	27	Cash on Delivery	2
+206	Keyboard	Electronics	12041.13	4	48164.52	2023-06-26	2023-07-05	Bengaluru	Rahul	Male	21	Net Banking	3
+207	Printer	Electronics	35669.92	5	178349.6	2024-03-27	2024-04-05	Kolkata	Shoaib	Female	34	Debit Card	3
+208	Monitor	Electronics	14131.68	5	70658.4	2023-08-19	2023-08-27	Kolkata	Imran	Male	46	Net Banking	3
+209	Pen	Stationery	45434.82	3	136304.46	2023-06-25	2023-06-28	Pune	Rahul	Male	54	Debit Card	5
+210	Bag	Accessories	2876.05	5	14380.25	2023-05-21	2023-05-31	Mumbai	Ravi	Female	21	Cash on Delivery	4
+211	Printer	Electronics	44173.59	5	220867.95	2023-12-11	2023-12-16	Delhi	Meena	Female	47	Debit Card	1
+212	Keyboard	Electronics	38343.77	1	38343.77	2023-01-29	2023-02-08	Kolkata	Ravi	Male	19	Debit Card	2
+213	Notebook	Stationery	6084.11	5	30420.55	2024-03-26	2024-04-04	Pune	Imran	Female	52	UPI	1
+214	Notebook	Stationery	5295.13	2	10590.26	2024-07-05	2024-07-08	Chennai	Arjun	Male	21	Debit Card	2
+215	Bag	Accessories	2714.45	5	13572.25	2024-01-15	2024-01-20	Kolkata	Neha	Male	26	UPI	3
+216	Laptop	Electronics	15595.54	1	15595.54	2024-02-10	2024-02-14	Jaipur	Vikram	Male	50	Net Banking	2
+217	Desk	Furniture	40671.92	5	203359.6	2024-03-05	2024-03-15	Hyderabad	Priya	Female	37	Cash on Delivery	4
+218	Monitor	Electronics	19906.65	5	99533.25	2024-06-14	2024-06-17	Mumbai	Imran	Male	52	Credit Card	3
+219	Laptop	Electronics	28515.27	1	28515.27	2023-02-26	2023-03-01	Mumbai	Kavita	Male	55	Net Banking	3
+220	Keyboard	Electronics	44898.65	5	224493.25	2023-08-27	2023-09-02	Hyderabad	Priya	Female	28	Debit Card	4
+221	Laptop	Electronics	11167.5	4	44670.0	2023-02-01	2023-02-08	Bengaluru	Arjun	Male	22	Cash on Delivery	3
+222	Mouse	Electronics	15142.35	4	60569.4	2024-07-23	2024-07-29	Bengaluru	Sneha	Female	42	Cash on Delivery	5
+223	Pen	Stationery	41994.69	4	167978.76	2023-08-30	2023-09-02	Kolkata	Kavita	Female	50	Debit Card	1
+224	Mouse	Electronics	466.3	1	466.3	2023-06-11	2023-06-14	Mumbai	Imran	Male	37	Net Banking	4
+225	Desk	Furniture	24529.78	5	122648.9	2024-04-21	2024-04-29	Pune	Neha	Female	36	Debit Card	5
+226	Desk	Furniture	14833.89	1	14833.89	2023-09-08	2023-09-16	Bengaluru	Meena	Female	28	Debit Card	5
+227	Pen	Stationery	38079.26	4	152317.04	2023-07-03	2023-07-11	Jaipur	Fatima	Male	31	Debit Card	4
+228	Laptop	Electronics	47609.64	4	190438.56	2024-03-14	2024-03-24	Mumbai	Amit	Female	19	Debit Card	2
+229	Keyboard	Electronics	30733.53	2	61467.06	2023-04-01	2023-04-09	Delhi	Ravi	Female	32	Cash on Delivery	1
+230	Notebook	Stationery	17225.06	4	68900.24	2023-06-28	2023-07-05	Chennai	Imran	Male	59	UPI	1
+231	Desk	Furniture	3491.39	1	3491.39	2023-09-14	2023-09-24	Pune	Nikhil	Male	36	Debit Card	3
+232	Mouse	Electronics	19529.64	4	78118.56	2024-04-05	2024-04-10	Chennai	Vikram	Male	31	UPI	4
+233	Laptop	Electronics	28698.0	5	143490.0	2023-06-24	2023-07-01	Chennai	Neha	Male	45	UPI	1
+234	Pen	Stationery	7356.87	4	29427.48	2024-06-08	2024-06-13	Bengaluru	Amit	Male	24	Net Banking	5
+235	Printer	Electronics	14718.41	3	44155.23	2023-12-24	2024-01-02	Mumbai	Arjun	Female	33	UPI	4
+236	Desk	Furniture	41927.05	2	83854.1	2024-08-03	2024-08-06	Pune	Vikram	Male	41	Credit Card	4
+237	Pen	Stationery	28379.82	4	113519.28	2023-08-06	2023-08-10	Kolkata	Fatima	Male	22	Debit Card	1
+238	Laptop	Electronics	18142.02	1	18142.02	2023-12-19	2023-12-22	Hyderabad	Fatima	Female	58	Cash on Delivery	3
+239	Desk	Furniture	16527.93	3	49583.79	2024-05-06	2024-05-09	Delhi	Arjun	Female	38	Credit Card	5
+240	Keyboard	Electronics	47371.25	4	189485.0	2023-07-31	2023-08-08	Chennai	Sana	Male	36	UPI	2
+241	Pen	Stationery	4421.28	1	4421.28	2024-07-06	2024-07-09	Mumbai	Sneha	Female	23	Debit Card	1
+242	Bag	Accessories	37612.31	2	75224.62	2024-05-09	2024-05-13	Bengaluru	Priya	Female	60	Cash on Delivery	1
+243	Mouse	Electronics	49614.43	5	248072.15	2023-04-14	2023-04-24	Mumbai	Arjun	Female	59	Credit Card	4
+244	Printer	Electronics	39136.58	2	78273.16	2023-06-15	2023-06-24	Delhi	Sana	Male	38	UPI	4
+245	Printer	Electronics	11844.4	1	11844.4	2024-04-18	2024-04-25	Mumbai	Sana	Male	53	Debit Card	3
+246	Keyboard	Electronics	13779.76	5	68898.8	2024-02-02	2024-02-11	Kolkata	Priya	Female	47	Credit Card	1
+247	Bag	Accessories	25127.96	2	50255.92	2024-01-28	2024-02-01	Chennai	Neha	Male	26	UPI	1
+248	Notebook	Stationery	40566.93	1	40566.93	2024-04-20	2024-04-25	Mumbai	Fatima	Female	53	UPI	3
+249	Desk	Furniture	4894.9	1	4894.9	2023-06-24	2023-06-28	Jaipur	Priya	Female	29	Credit Card	3
+250	Notebook	Stationery	48806.76	5	244033.8	2023-09-11	2023-09-16	Chennai	Shoaib	Male	33	Net Banking	2
+251	Laptop	Electronics	23412.97	1	23412.97	2023-12-23	2024-01-01	Delhi	Vikram	Male	38	Cash on Delivery	1
+252	Printer	Electronics	13491.12	3	40473.36	2023-07-08	2023-07-11	Bengaluru	Rahul	Male	46	Net Banking	1
+253	Printer	Electronics	23874.56	5	119372.8	2023-05-08	2023-05-17	Kolkata	Rahul	Female	43	Credit Card	3
+254	Desk	Furniture	9550.33	3	28650.99	2024-04-13	2024-04-18	Hyderabad	Shoaib	Male	26	Net Banking	4
+255	Printer	Electronics	49987.85	2	99975.7	2023-04-01	2023-04-09	Hyderabad	Vikram	Female	22	Credit Card	4
+256	Bag	Accessories	36116.02	1	36116.02	2024-07-21	2024-07-25	Jaipur	Arjun	Female	29	Cash on Delivery	4
+257	Mouse	Electronics	11026.83	2	22053.66	2023-02-24	2023-02-28	Chennai	Ravi	Male	38	Debit Card	5
+258	Laptop	Electronics	21330.55	2	42661.1	2024-04-13	2024-04-17	Bengaluru	Nikhil	Female	55	Debit Card	1
+259	Mouse	Electronics	9392.98	5	46964.9	2024-03-29	2024-04-02	Pune	Priya	Female	51	Credit Card	5
+260	Desk	Furniture	37609.1	3	112827.3	2024-01-23	2024-01-26	Kolkata	Sneha	Female	55	Credit Card	5
+261	Mouse	Electronics	37130.05	5	185650.25	2023-09-23	2023-09-29	Hyderabad	Meena	Male	25	Net Banking	1
+262	Chair	Furniture	26020.6	5	130103.0	2024-03-06	2024-03-10	Pune	Vikram	Female	48	UPI	1
+263	Mouse	Electronics	45273.28	1	45273.28	2023-07-16	2023-07-20	Kolkata	Nikhil	Male	50	Debit Card	4
+264	Printer	Electronics	25321.0	5	126605.0	2023-08-08	2023-08-15	Mumbai	Nikhil	Male	31	Cash on Delivery	5
+265	Printer	Electronics	4224.58	1	4224.58	2023-06-10	2023-06-18	Mumbai	Sneha	Female	55	Debit Card	5
+266	Notebook	Stationery	42507.83	1	42507.83	2023-03-16	2023-03-22	Delhi	Arjun	Male	60	UPI	1
+267	Notebook	Stationery	46684.45	5	233422.25	2024-06-11	2024-06-14	Chennai	Nikhil	Male	18	UPI	4
+268	Pen	Stationery	7374.26	2	14748.52	2024-07-10	2024-07-14	Delhi	Vikram	Female	43	Credit Card	2
+269	Printer	Electronics	4932.13	5	24660.65	2023-08-24	2023-09-02	Chennai	Sana	Male	49	Cash on Delivery	2
+270	Mouse	Electronics	7032.02	3	21096.06	2023-06-23	2023-06-27	Pune	Ravi	Male	26	Cash on Delivery	2
+271	Monitor	Electronics	45451.04	4	181804.16	2024-07-20	2024-07-24	Kolkata	Priya	Male	59	UPI	5
+272	Laptop	Electronics	10949.21	1	10949.21	2023-01-27	2023-02-04	Hyderabad	Ravi	Female	44	Debit Card	4
+273	Pen	Stationery	7874.6	5	39373.0	2023-05-16	2023-05-25	Pune	Neha	Female	60	Debit Card	1
+274	Monitor	Electronics	48179.99	5	240899.95	2023-04-12	2023-04-21	Bengaluru	Amit	Male	25	UPI	2
+275	Mouse	Electronics	27541.17	5	137705.85	2023-01-25	2023-02-03	Bengaluru	Fatima	Female	60	Cash on Delivery	1
+276	Notebook	Stationery	49135.43	4	196541.72	2023-11-08	2023-11-14	Mumbai	Neha	Male	41	Cash on Delivery	4
+277	Chair	Furniture	32225.93	2	64451.86	2023-07-04	2023-07-11	Chennai	Neha	Female	30	Net Banking	3
+278	Printer	Electronics	12694.22	1	12694.22	2024-01-27	2024-01-30	Kolkata	Arjun	Female	54	Cash on Delivery	1
+279	Laptop	Electronics	33906.83	4	135627.32	2024-07-19	2024-07-28	Kolkata	Kavita	Male	19	Cash on Delivery	3
+280	Notebook	Stationery	40016.11	4	160064.44	2024-08-12	2024-08-18	Pune	Sana	Female	60	Net Banking	4
+281	Keyboard	Electronics	15857.3	3	47571.9	2024-01-15	2024-01-25	Mumbai	Ravi	Male	49	Debit Card	5
+282	Bag	Accessories	37381.13	1	37381.13	2023-03-20	2023-03-30	Mumbai	Priya	Male	18	Cash on Delivery	2
+283	Chair	Furniture	27400.23	1	27400.23	2024-05-21	2024-05-23	Kolkata	Nikhil	Female	21	Net Banking	1
+284	Desk	Furniture	17230.5	1	17230.5	2023-10-23	2023-10-26	Mumbai	Kavita	Female	58	UPI	2
+285	Bag	Accessories	7089.58	5	35447.9	2023-02-25	2023-03-02	Chennai	Fatima	Male	40	Debit Card	5
+286	Notebook	Stationery	42277.85	2	84555.7	2023-04-20	2023-04-28	Delhi	Kavita	Male	22	Credit Card	3
+287	Pen	Stationery	27382.38	4	109529.52	2023-11-13	2023-11-16	Hyderabad	Arjun	Female	32	Cash on Delivery	5
+288	Desk	Furniture	39029.66	3	117088.98	2023-08-24	2023-08-30	Hyderabad	Nikhil	Male	30	Credit Card	3
+289	Chair	Furniture	46071.02	3	138213.06	2024-04-29	2024-05-09	Chennai	Ravi	Female	28	Cash on Delivery	1
+290	Notebook	Stationery	30926.14	1	30926.14	2023-01-23	2023-01-27	Kolkata	Meena	Female	47	Net Banking	3
+291	Monitor	Electronics	23333.26	4	93333.04	2023-11-07	2023-11-12	Jaipur	Sana	Female	25	UPI	1
+292	Desk	Furniture	166.44	3	499.32	2024-05-17	2024-05-19	Kolkata	Nikhil	Male	59	Net Banking	4
+293	Desk	Furniture	38147.43	3	114442.29	2024-08-06	2024-08-12	Bengaluru	Sana	Female	54	Credit Card	5
+294	Pen	Stationery	29996.94	5	149984.7	2024-05-14	2024-05-19	Bengaluru	Kavita	Female	29	Credit Card	4
+295	Notebook	Stationery	2718.48	4	10873.92	2024-01-28	2024-01-31	Bengaluru	Neha	Female	56	Net Banking	5
+296	Printer	Electronics	4551.83	4	18207.32	2023-06-28	2023-07-01	Chennai	Kavita	Female	50	Credit Card	5
+297	Mouse	Electronics	30739.68	3	92219.04	2024-07-07	2024-07-12	Mumbai	Imran	Male	34	Debit Card	4
+298	Laptop	Electronics	25282.04	1	25282.04	2023-09-16	2023-09-24	Chennai	Fatima	Female	48	Debit Card	3
+299	Keyboard	Electronics	27642.88	4	110571.52	2024-07-03	2024-07-09	Bengaluru	Rahul	Female	44	Cash on Delivery	4
+300	Mouse	Electronics	27549.62	1	27549.62	2023-12-29	2024-01-02	Pune	Meena	Male	20	Cash on Delivery	4
+301	Mouse	Electronics	26934.14	4	107736.56	2023-01-27	2023-02-01	Delhi	Nikhil	Male	33	Credit Card	3
+302	Chair	Furniture	26226.14	1	26226.14	2024-07-01	2024-07-03	Mumbai	Rahul	Female	47	Cash on Delivery	5
+303	Keyboard	Electronics	33956.7	1	33956.7	2023-10-17	2023-10-25	Jaipur	Fatima	Male	34	Cash on Delivery	5
+304	Chair	Furniture	38096.13	4	152384.52	2024-07-21	2024-07-26	Mumbai	Arjun	Male	50	Cash on Delivery	5
+305	Monitor	Electronics	24144.71	5	120723.55	2024-06-06	2024-06-10	Chennai	Fatima	Female	41	Credit Card	3
+306	Desk	Furniture	9015.9	1	9015.9	2023-02-27	2023-03-07	Kolkata	Nikhil	Male	53	Debit Card	2
+307	Keyboard	Electronics	13248.45	2	26496.9	2023-02-13	2023-02-23	Chennai	Ravi	Female	33	Credit Card	1
+308	Printer	Electronics	16307.91	3	48923.73	2023-06-23	2023-06-30	Bengaluru	Arjun	Female	42	UPI	2
+309	Mouse	Electronics	6538.83	3	19616.49	2023-09-09	2023-09-14	Jaipur	Neha	Male	48	Cash on Delivery	2
+310	Desk	Furniture	22981.8	3	68945.4	2024-07-28	2024-08-01	Kolkata	Imran	Female	22	Debit Card	5
+311	Bag	Accessories	42509.19	1	42509.19	2023-10-06	2023-10-14	Bengaluru	Shoaib	Male	46	Credit Card	1
+312	Mouse	Electronics	33817.97	2	67635.94	2023-10-01	2023-10-09	Mumbai	Neha	Female	30	Cash on Delivery	1
+313	Pen	Stationery	15021.48	1	15021.48	2023-08-22	2023-08-25	Chennai	Kavita	Male	21	Cash on Delivery	5
+314	Notebook	Stationery	44364.95	5	221824.75	2023-03-12	2023-03-21	Kolkata	Meena	Male	42	Net Banking	1
+315	Notebook	Stationery	16399.83	5	81999.15	2024-07-04	2024-07-09	Mumbai	Fatima	Male	55	Credit Card	3
+316	Pen	Stationery	33198.23	5	165991.15	2024-03-31	2024-04-07	Mumbai	Meena	Male	30	UPI	2
+317	Laptop	Electronics	23026.65	5	115133.25	2024-01-15	2024-01-25	Chennai	Ravi	Male	57	Debit Card	5
+318	Monitor	Electronics	9962.37	1	9962.37	2024-02-19	2024-02-28	Pune	Arjun	Female	39	Debit Card	4
+319	Printer	Electronics	21215.77	4	84863.08	2023-02-08	2023-02-14	Mumbai	Nikhil	Male	43	Net Banking	4
+320	Monitor	Electronics	23213.3	1	23213.3	2024-03-27	2024-03-29	Jaipur	Nikhil	Male	18	Debit Card	1
+321	Monitor	Electronics	19236.31	4	76945.24	2023-02-14	2023-02-19	Jaipur	Meena	Male	27	Net Banking	2
+322	Printer	Electronics	11279.76	3	33839.28	2023-04-04	2023-04-11	Hyderabad	Sana	Male	26	Net Banking	2
+323	Desk	Furniture	22846.65	1	22846.65	2023-08-14	2023-08-22	Hyderabad	Fatima	Female	38	Debit Card	1
+324	Chair	Furniture	49706.14	1	49706.14	2023-03-22	2023-03-29	Hyderabad	Meena	Female	29	Credit Card	3
+325	Keyboard	Electronics	41704.14	2	83408.28	2023-09-15	2023-09-22	Hyderabad	Nikhil	Male	28	Debit Card	4
+326	Pen	Stationery	23381.81	3	70145.43	2024-01-05	2024-01-12	Kolkata	Meena	Male	23	Net Banking	4
+327	Chair	Furniture	13695.53	4	54782.12	2023-06-16	2023-06-18	Bengaluru	Rahul	Male	40	Cash on Delivery	2
+328	Keyboard	Electronics	40014.78	4	160059.12	2023-07-19	2023-07-28	Hyderabad	Shoaib	Female	19	Cash on Delivery	1
+329	Laptop	Electronics	27044.52	1	27044.52	2023-12-29	2024-01-04	Delhi	Sana	Male	47	UPI	5
+330	Pen	Stationery	2385.88	4	9543.52	2024-01-08	2024-01-17	Jaipur	Arjun	Male	28	UPI	4
+331	Chair	Furniture	12904.59	2	25809.18	2024-04-28	2024-05-04	Delhi	Fatima	Female	38	Credit Card	4
+332	Printer	Electronics	24793.59	4	99174.36	2023-07-16	2023-07-22	Jaipur	Kavita	Female	26	UPI	3
+333	Bag	Accessories	43387.07	4	173548.28	2023-09-26	2023-10-04	Jaipur	Neha	Female	59	UPI	3
+334	Printer	Electronics	27631.07	5	138155.35	2023-07-07	2023-07-13	Hyderabad	Neha	Male	45	Debit Card	2
+335	Laptop	Electronics	42193.18	3	126579.54	2023-11-25	2023-12-02	Delhi	Imran	Female	29	UPI	4
+336	Chair	Furniture	45063.57	2	90127.14	2023-05-19	2023-05-26	Jaipur	Vikram	Male	57	Credit Card	2
+337	Pen	Stationery	30468.94	3	91406.82	2024-02-21	2024-02-29	Hyderabad	Ravi	Female	24	Net Banking	1
+338	Chair	Furniture	32942.62	3	98827.86	2023-01-18	2023-01-24	Pune	Shoaib	Male	60	Credit Card	5
+339	Desk	Furniture	18343.13	4	73372.52	2023-12-30	2024-01-03	Chennai	Ravi	Female	56	Cash on Delivery	1
+340	Notebook	Stationery	1758.88	3	5276.64	2023-01-10	2023-01-19	Chennai	Imran	Female	45	Debit Card	5
+341	Monitor	Electronics	36063.13	1	36063.13	2023-07-05	2023-07-12	Delhi	Shoaib	Female	50	Net Banking	3
+342	Bag	Accessories	47129.53	4	188518.12	2023-01-13	2023-01-22	Hyderabad	Amit	Male	20	Debit Card	4
+343	Bag	Accessories	37228.96	1	37228.96	2023-05-04	2023-05-13	Jaipur	Ravi	Male	54	Debit Card	2
+344	Desk	Furniture	39551.45	2	79102.9	2024-01-05	2024-01-07	Kolkata	Priya	Female	38	UPI	2
+345	Printer	Electronics	6319.23	4	25276.92	2023-02-22	2023-03-02	Mumbai	Rahul	Male	21	Net Banking	2
+346	Pen	Stationery	40367.85	4	161471.4	2023-10-24	2023-10-29	Jaipur	Priya	Male	42	Net Banking	2
+347	Desk	Furniture	9854.65	3	29563.95	2023-10-17	2023-10-19	Bengaluru	Shoaib	Female	26	Net Banking	3
+348	Bag	Accessories	17781.96	4	71127.84	2023-02-28	2023-03-02	Pune	Meena	Female	59	Credit Card	3
+349	Mouse	Electronics	39038.9	1	39038.9	2023-11-08	2023-11-16	Chennai	Vikram	Male	28	Credit Card	4
+350	Mouse	Electronics	22551.89	1	22551.89	2023-01-07	2023-01-14	Jaipur	Imran	Female	58	Net Banking	5
+351	Desk	Furniture	44921.22	2	89842.44	2023-12-12	2023-12-21	Mumbai	Ravi	Male	34	Cash on Delivery	3
+352	Monitor	Electronics	12073.1	3	36219.3	2023-02-04	2023-02-13	Jaipur	Fatima	Female	37	Net Banking	3
+353	Laptop	Electronics	11759.27	4	47037.08	2023-11-23	2023-11-30	Hyderabad	Sana	Male	35	Debit Card	1
+354	Keyboard	Electronics	28074.06	2	56148.12	2023-11-25	2023-11-27	Mumbai	Neha	Male	59	Debit Card	4
+355	Bag	Accessories	28119.77	3	84359.31	2023-08-23	2023-08-26	Hyderabad	Fatima	Female	32	Debit Card	4
+356	Pen	Stationery	31782.47	2	63564.94	2024-07-13	2024-07-18	Chennai	Priya	Female	18	Net Banking	5
+357	Printer	Electronics	3952.34	2	7904.68	2024-05-29	2024-05-31	Chennai	Nikhil	Male	33	UPI	2
+358	Keyboard	Electronics	5825.73	1	5825.73	2023-11-24	2023-12-01	Delhi	Meena	Male	54	Net Banking	5
+359	Printer	Electronics	40632.01	3	121896.03	2024-03-08	2024-03-12	Mumbai	Neha	Female	20	UPI	2
+360	Keyboard	Electronics	48309.47	2	96618.94	2024-04-10	2024-04-17	Delhi	Imran	Male	52	UPI	5
+361	Desk	Furniture	45237.04	2	90474.08	2024-01-09	2024-01-19	Hyderabad	Meena	Female	30	Credit Card	4
+362	Notebook	Stationery	21190.66	2	42381.32	2023-11-14	2023-11-20	Pune	Fatima	Male	52	Debit Card	3
+363	Mouse	Electronics	2139.71	5	10698.55	2023-05-12	2023-05-14	Bengaluru	Meena	Female	29	Credit Card	4
+364	Keyboard	Electronics	42963.98	2	85927.96	2024-04-23	2024-04-27	Bengaluru	Arjun	Female	43	Debit Card	1
+365	Chair	Furniture	48679.93	1	48679.93	2023-12-19	2023-12-28	Kolkata	Priya	Female	52	Net Banking	4
+366	Chair	Furniture	42108.02	4	168432.08	2023-03-10	2023-03-13	Pune	Kavita	Male	40	Net Banking	2
+367	Notebook	Stationery	13111.55	3	39334.65	2024-02-12	2024-02-16	Chennai	Neha	Male	27	Cash on Delivery	1
+368	Keyboard	Electronics	4570.18	5	22850.9	2023-05-04	2023-05-12	Bengaluru	Arjun	Female	46	UPI	5
+369	Pen	Stationery	16323.58	5	81617.9	2023-09-27	2023-10-04	Pune	Rahul	Male	34	Net Banking	5
+370	Chair	Furniture	8972.32	3	26916.96	2024-02-27	2024-03-08	Kolkata	Amit	Male	32	Debit Card	3
+371	Monitor	Electronics	9089.02	1	9089.02	2023-07-18	2023-07-20	Delhi	Rahul	Male	31	Credit Card	3
+372	Keyboard	Electronics	6384.77	2	12769.54	2023-09-19	2023-09-21	Delhi	Shoaib	Female	21	UPI	3
+373	Mouse	Electronics	36260.51	2	72521.02	2023-12-22	2023-12-30	Hyderabad	Arjun	Male	28	Credit Card	3
+374	Pen	Stationery	21837.28	2	43674.56	2023-01-15	2023-01-19	Jaipur	Shoaib	Male	27	Debit Card	5
+375	Bag	Accessories	32546.55	5	162732.75	2023-05-16	2023-05-22	Mumbai	Neha	Female	24	Debit Card	2
+376	Desk	Furniture	15835.82	1	15835.82	2023-05-16	2023-05-22	Pune	Arjun	Male	49	Net Banking	1
+377	Desk	Furniture	22039.14	4	88156.56	2023-10-22	2023-10-31	Chennai	Ravi	Male	45	Credit Card	2
+378	Mouse	Electronics	27564.27	5	137821.35	2024-04-08	2024-04-13	Hyderabad	Shoaib	Female	40	Net Banking	5
+379	Desk	Furniture	4993.04	2	9986.08	2023-05-25	2023-05-29	Mumbai	Kavita	Female	47	Debit Card	5
+380	Pen	Stationery	49315.36	2	98630.72	2023-07-19	2023-07-21	Pune	Sneha	Female	22	UPI	3
+381	Bag	Accessories	43394.01	2	86788.02	2023-10-19	2023-10-25	Jaipur	Arjun	Male	18	Debit Card	4
+382	Laptop	Electronics	28014.4	1	28014.4	2024-02-27	2024-03-07	Chennai	Neha	Female	39	Net Banking	4
+383	Desk	Furniture	18931.43	1	18931.43	2024-02-25	2024-03-04	Jaipur	Ravi	Male	44	Debit Card	4
+384	Desk	Furniture	12675.64	4	50702.56	2023-08-29	2023-09-02	Pune	Ravi	Female	39	Net Banking	4
+385	Chair	Furniture	1084.41	3	3253.23	2023-11-11	2023-11-21	Pune	Arjun	Male	58	Cash on Delivery	5
+386	Chair	Furniture	46739.5	2	93479.0	2024-03-11	2024-03-17	Kolkata	Imran	Male	40	Cash on Delivery	3
+387	Mouse	Electronics	38512.53	4	154050.12	2024-02-25	2024-03-01	Hyderabad	Sneha	Female	46	Cash on Delivery	1
+388	Pen	Stationery	16464.84	5	82324.2	2023-06-22	2023-06-26	Kolkata	Imran	Female	29	Cash on Delivery	5
+389	Printer	Electronics	40427.61	5	202138.05	2024-01-11	2024-01-16	Pune	Meena	Female	37	Debit Card	5
+390	Bag	Accessories	4085.69	2	8171.38	2023-05-11	2023-05-16	Chennai	Rahul	Male	38	Net Banking	3
+391	Chair	Furniture	28090.35	1	28090.35	2024-05-28	2024-06-07	Chennai	Fatima	Male	49	Net Banking	1
+392	Laptop	Electronics	16816.33	4	67265.32	2024-07-14	2024-07-24	Hyderabad	Amit	Male	31	Cash on Delivery	4
+393	Printer	Electronics	48164.07	4	192656.28	2023-07-29	2023-08-08	Pune	Priya	Female	38	Debit Card	4
+394	Chair	Furniture	37954.26	4	151817.04	2024-08-22	2024-08-24	Chennai	Meena	Female	19	Cash on Delivery	2
+395	Bag	Accessories	40467.03	2	80934.06	2024-03-23	2024-04-02	Pune	Shoaib	Male	32	Credit Card	5
+396	Printer	Electronics	35467.06	2	70934.12	2024-02-28	2024-03-03	Bengaluru	Sneha	Female	57	Credit Card	5
+397	Notebook	Stationery	18899.27	2	37798.54	2023-03-02	2023-03-12	Bengaluru	Neha	Male	47	Net Banking	1
+398	Mouse	Electronics	18895.59	3	56686.77	2024-01-10	2024-01-17	Kolkata	Meena	Male	44	Credit Card	2
+399	Printer	Electronics	17448.29	5	87241.45	2023-09-18	2023-09-25	Kolkata	Ravi	Male	58	Cash on Delivery	5
+400	Pen	Stationery	6430.7	4	25722.8	2023-10-06	2023-10-14	Jaipur	Ravi	Male	34	Debit Card	4
+401	Desk	Furniture	5437.88	3	16313.64	2023-03-18	2023-03-25	Mumbai	Vikram	Male	31	Cash on Delivery	5
+402	Monitor	Electronics	8275.9	2	16551.8	2023-09-12	2023-09-17	Mumbai	Vikram	Male	31	Cash on Delivery	2
+403	Keyboard	Electronics	45639.19	5	228195.95	2023-01-26	2023-01-29	Kolkata	Neha	Male	45	UPI	5
+404	Printer	Electronics	32278.89	3	96836.67	2024-07-03	2024-07-13	Delhi	Priya	Female	24	Net Banking	5
+405	Pen	Stationery	48114.55	4	192458.2	2024-01-09	2024-01-18	Hyderabad	Meena	Female	58	Net Banking	2
+406	Monitor	Electronics	14428.88	3	43286.64	2024-02-27	2024-03-05	Chennai	Sneha	Female	58	Cash on Delivery	3
+407	Monitor	Electronics	20866.79	1	20866.79	2023-07-29	2023-08-01	Hyderabad	Vikram	Male	36	Debit Card	5
+408	Laptop	Electronics	41988.2	1	41988.2	2023-02-04	2023-02-10	Hyderabad	Nikhil	Female	43	Debit Card	3
+409	Laptop	Electronics	24831.27	2	49662.54	2024-06-13	2024-06-21	Kolkata	Neha	Male	50	Credit Card	5
+410	Mouse	Electronics	2822.77	3	8468.31	2023-01-16	2023-01-18	Chennai	Shoaib	Female	49	UPI	3
+411	Notebook	Stationery	30465.73	3	91397.19	2023-04-08	2023-04-18	Mumbai	Vikram	Female	36	Net Banking	1
+412	Desk	Furniture	40143.62	1	40143.62	2023-01-29	2023-02-02	Bengaluru	Nikhil	Male	19	UPI	4
+413	Monitor	Electronics	35513.51	5	177567.55	2024-08-12	2024-08-22	Delhi	Vikram	Male	45	Credit Card	5
+414	Desk	Furniture	11403.24	1	11403.24	2024-05-04	2024-05-14	Bengaluru	Neha	Male	23	UPI	2
+415	Monitor	Electronics	4573.12	3	13719.36	2024-01-06	2024-01-12	Hyderabad	Vikram	Male	21	UPI	3
+416	Keyboard	Electronics	48393.85	4	193575.4	2024-01-08	2024-01-16	Delhi	Sana	Female	56	Debit Card	3
+417	Printer	Electronics	22108.64	2	44217.28	2023-03-07	2023-03-16	Kolkata	Priya	Female	51	UPI	2
+418	Keyboard	Electronics	48142.7	1	48142.7	2023-12-30	2024-01-01	Pune	Amit	Female	27	Credit Card	5
+419	Pen	Stationery	43527.63	4	174110.52	2023-01-27	2023-01-30	Jaipur	Fatima	Male	37	UPI	3
+420	Keyboard	Electronics	22772.51	3	68317.53	2023-08-17	2023-08-26	Pune	Meena	Female	24	Debit Card	5
+421	Printer	Electronics	49781.3	3	149343.9	2024-08-01	2024-08-04	Kolkata	Shoaib	Male	59	Net Banking	5
+422	Chair	Furniture	15676.17	2	31352.34	2024-08-05	2024-08-15	Pune	Arjun	Male	47	UPI	2
+423	Pen	Stationery	42619.17	5	213095.85	2024-01-11	2024-01-18	Bengaluru	Rahul	Male	46	Credit Card	4
+424	Monitor	Electronics	39786.32	3	119358.96	2024-06-25	2024-07-05	Mumbai	Arjun	Female	40	Net Banking	1
+425	Printer	Electronics	26262.21	5	131311.05	2024-06-16	2024-06-19	Mumbai	Fatima	Male	43	Cash on Delivery	2
+426	Bag	Accessories	21501.02	3	64503.06	2023-10-20	2023-10-29	Jaipur	Sneha	Male	21	UPI	1
+427	Notebook	Stationery	12086.87	4	48347.48	2023-10-10	2023-10-18	Jaipur	Fatima	Female	35	UPI	1
+428	Desk	Furniture	46040.69	1	46040.69	2023-12-05	2023-12-14	Hyderabad	Amit	Female	37	Net Banking	1
+429	Monitor	Electronics	42867.53	1	42867.53	2024-08-03	2024-08-08	Hyderabad	Amit	Male	47	Net Banking	4
+430	Monitor	Electronics	14877.95	2	29755.9	2023-06-08	2023-06-18	Mumbai	Rahul	Male	38	UPI	5
+431	Monitor	Electronics	44291.65	3	132874.95	2024-08-06	2024-08-12	Kolkata	Kavita	Male	39	Credit Card	4
+432	Bag	Accessories	18429.21	4	73716.84	2024-07-16	2024-07-26	Hyderabad	Priya	Female	27	Cash on Delivery	1
+433	Keyboard	Electronics	43444.41	5	217222.05	2023-08-17	2023-08-27	Jaipur	Meena	Male	41	Credit Card	2
+434	Bag	Accessories	9780.72	1	9780.72	2023-01-23	2023-01-26	Chennai	Fatima	Male	28	Cash on Delivery	5
+435	Printer	Electronics	37042.83	1	37042.83	2023-11-20	2023-11-27	Delhi	Kavita	Female	30	Credit Card	2
+436	Keyboard	Electronics	37880.94	3	113642.82	2024-08-04	2024-08-12	Chennai	Vikram	Female	52	Debit Card	3
+437	Monitor	Electronics	11724.13	5	58620.65	2023-01-20	2023-01-30	Mumbai	Sana	Female	47	Credit Card	2
+438	Keyboard	Electronics	47902.74	1	47902.74	2024-05-15	2024-05-24	Kolkata	Vikram	Female	26	Credit Card	3
+439	Desk	Furniture	5575.12	2	11150.24	2024-08-20	2024-08-29	Delhi	Imran	Female	59	UPI	1
+440	Monitor	Electronics	42794.82	5	213974.1	2023-01-05	2023-01-12	Jaipur	Ravi	Male	50	Net Banking	1
+441	Monitor	Electronics	6178.71	4	24714.84	2023-10-14	2023-10-22	Pune	Amit	Female	26	Cash on Delivery	4
+442	Bag	Accessories	2830.84	1	2830.84	2024-05-01	2024-05-03	Delhi	Shoaib	Male	36	Cash on Delivery	3
+443	Notebook	Stationery	4418.64	2	8837.28	2024-02-12	2024-02-18	Kolkata	Meena	Female	57	Debit Card	3
+444	Printer	Electronics	41557.02	4	166228.08	2024-04-08	2024-04-17	Kolkata	Kavita	Female	38	Credit Card	3
+445	Printer	Electronics	15086.39	5	75431.95	2024-03-30	2024-04-03	Kolkata	Imran	Male	42	Cash on Delivery	3
+446	Laptop	Electronics	21674.97	5	108374.85	2024-05-01	2024-05-06	Bengaluru	Kavita	Female	40	Net Banking	2
+447	Desk	Furniture	5176.92	2	10353.84	2024-01-26	2024-02-03	Mumbai	Sana	Male	24	Net Banking	5
+448	Notebook	Stationery	37348.36	4	149393.44	2023-03-22	2023-03-29	Kolkata	Neha	Male	40	Cash on Delivery	1
+449	Pen	Stationery	27719.62	4	110878.48	2023-08-11	2023-08-17	Delhi	Neha	Male	53	Net Banking	3
+450	Laptop	Electronics	27817.74	3	83453.22	2023-03-19	2023-03-27	Jaipur	Vikram	Male	29	UPI	3
+451	Desk	Furniture	19183.27	2	38366.54	2023-09-27	2023-10-05	Kolkata	Ravi	Male	40	Net Banking	3
+452	Bag	Accessories	32720.97	3	98162.91	2023-04-14	2023-04-18	Mumbai	Nikhil	Female	19	Credit Card	2
+453	Monitor	Electronics	39491.74	4	157966.96	2024-01-25	2024-01-27	Bengaluru	Nikhil	Female	18	Debit Card	1
+454	Pen	Stationery	9791.62	2	19583.24	2024-01-15	2024-01-20	Mumbai	Neha	Female	26	Debit Card	5
+455	Mouse	Electronics	19812.63	3	59437.89	2024-07-24	2024-07-31	Delhi	Arjun	Female	49	Cash on Delivery	2
+456	Desk	Furniture	12958.32	2	25916.64	2023-10-17	2023-10-21	Pune	Priya	Male	21	Credit Card	3
+457	Laptop	Electronics	18524.14	4	74096.56	2024-02-01	2024-02-03	Bengaluru	Priya	Female	40	Credit Card	3
+458	Monitor	Electronics	29426.97	2	58853.94	2023-09-11	2023-09-19	Delhi	Kavita	Female	31	UPI	1
+459	Pen	Stationery	14729.84	2	29459.68	2024-03-28	2024-03-31	Hyderabad	Rahul	Female	53	Net Banking	3
+460	Laptop	Electronics	13346.95	2	26693.9	2023-03-11	2023-03-13	Kolkata	Amit	Male	45	Cash on Delivery	4
+461	Notebook	Stationery	21081.83	1	21081.83	2023-02-25	2023-03-06	Jaipur	Meena	Male	47	Net Banking	2
+462	Desk	Furniture	37739.9	4	150959.6	2023-11-20	2023-11-29	Mumbai	Kavita	Female	31	Credit Card	2
+463	Keyboard	Electronics	14933.37	2	29866.74	2023-03-02	2023-03-11	Bengaluru	Amit	Female	45	Credit Card	5
+464	Pen	Stationery	23797.62	2	47595.24	2024-03-17	2024-03-24	Pune	Ravi	Female	30	Debit Card	5
+465	Printer	Electronics	8233.62	1	8233.62	2023-07-26	2023-07-30	Kolkata	Neha	Male	59	UPI	4
+466	Mouse	Electronics	6941.47	4	27765.88	2024-04-18	2024-04-22	Chennai	Sana	Female	34	Cash on Delivery	5
+467	Laptop	Electronics	23287.73	3	69863.19	2023-12-30	2024-01-08	Hyderabad	Vikram	Male	38	Net Banking	4
+468	Bag	Accessories	6645.96	4	26583.84	2024-06-13	2024-06-23	Kolkata	Sneha	Female	28	UPI	5
+469	Mouse	Electronics	6975.12	3	20925.36	2023-12-26	2023-12-29	Pune	Rahul	Male	52	Net Banking	5
+470	Laptop	Electronics	3683.21	3	11049.63	2024-07-08	2024-07-16	Jaipur	Shoaib	Male	34	Net Banking	3
+471	Laptop	Electronics	39212.83	3	117638.49	2023-05-08	2023-05-18	Chennai	Priya	Male	19	Net Banking	5
+472	Laptop	Electronics	47001.66	2	94003.32	2024-06-23	2024-06-30	Delhi	Kavita	Male	38	Debit Card	1
+473	Bag	Accessories	45617.16	5	228085.8	2023-06-24	2023-07-02	Bengaluru	Neha	Male	44	Credit Card	1
+474	Keyboard	Electronics	37179.95	3	111539.85	2024-07-26	2024-08-01	Chennai	Rahul	Female	36	Debit Card	5
+475	Mouse	Electronics	33446.77	5	167233.85	2024-04-17	2024-04-22	Chennai	Imran	Female	23	Net Banking	3
+476	Mouse	Electronics	42130.22	2	84260.44	2023-09-12	2023-09-19	Delhi	Rahul	Male	50	UPI	4
+477	Bag	Accessories	45593.31	1	45593.31	2023-07-22	2023-08-01	Mumbai	Ravi	Female	47	Credit Card	1
+478	Notebook	Stationery	12992.19	5	64960.95	2024-07-30	2024-08-08	Chennai	Shoaib	Male	19	Cash on Delivery	1
+479	Pen	Stationery	35426.21	3	106278.63	2024-01-17	2024-01-25	Delhi	Priya	Female	57	Cash on Delivery	1
+480	Printer	Electronics	13892.12	4	55568.48	2023-12-05	2023-12-10	Jaipur	Priya	Female	58	UPI	5
+481	Mouse	Electronics	48147.32	3	144441.96	2024-01-20	2024-01-24	Hyderabad	Amit	Female	56	Net Banking	4
+482	Monitor	Electronics	34058.44	1	34058.44	2023-04-02	2023-04-08	Delhi	Imran	Female	51	Credit Card	1
+483	Laptop	Electronics	34228.44	4	136913.76	2024-06-20	2024-06-23	Mumbai	Ravi	Female	52	Debit Card	3
+484	Laptop	Electronics	11857.94	3	35573.82	2024-06-25	2024-06-28	Chennai	Priya	Male	23	Cash on Delivery	1
+485	Pen	Stationery	29985.22	2	59970.44	2024-07-03	2024-07-07	Bengaluru	Priya	Female	52	Credit Card	4
+486	Printer	Electronics	24193.58	5	120967.9	2023-08-12	2023-08-18	Mumbai	Priya	Female	49	Debit Card	2
+487	Pen	Stationery	10924.63	3	32773.89	2023-10-24	2023-10-31	Kolkata	Priya	Female	22	Credit Card	3
+488	Laptop	Electronics	36166.77	2	72333.54	2023-02-28	2023-03-07	Hyderabad	Priya	Female	26	UPI	2
+489	Mouse	Electronics	26970.1	4	107880.4	2023-05-14	2023-05-20	Jaipur	Fatima	Male	27	UPI	4
+490	Laptop	Electronics	4267.78	1	4267.78	2024-06-23	2024-06-27	Bengaluru	Arjun	Male	52	Net Banking	2
+491	Desk	Furniture	11448.49	1	11448.49	2023-07-24	2023-07-30	Delhi	Vikram	Male	23	UPI	3
+492	Desk	Furniture	28550.35	1	28550.35	2023-05-03	2023-05-07	Chennai	Meena	Male	27	Net Banking	4
+493	Pen	Stationery	46211.11	5	231055.55	2023-06-10	2023-06-20	Chennai	Arjun	Male	50	Cash on Delivery	1
+494	Desk	Furniture	48486.47	1	48486.47	2023-09-22	2023-09-29	Chennai	Sneha	Male	39	Debit Card	2
+495	Bag	Accessories	11938.61	2	23877.22	2023-11-06	2023-11-10	Delhi	Neha	Female	25	Cash on Delivery	5
+496	Mouse	Electronics	39005.18	5	195025.9	2024-05-19	2024-05-23	Jaipur	Priya	Female	53	Debit Card	2
+497	Bag	Accessories	8251.51	2	16503.02	2023-08-19	2023-08-22	Kolkata	Imran	Male	33	UPI	5
+498	Pen	Stationery	21866.01	1	21866.01	2024-01-29	2024-02-04	Mumbai	Priya	Male	30	Credit Card	2
+499	Chair	Furniture	14791.73	3	44375.19	2024-07-09	2024-07-16	Bengaluru	Vikram	Male	39	Cash on Delivery	1
+500	Printer	Electronics	3422.79	2	6845.58	2023-07-07	2023-07-15	Bengaluru	Nikhil	Female	39	Cash on Delivery	4
+501	Chair	Furniture	34315.74	3	102947.22	2023-12-25	2023-12-30	Mumbai	Fatima	Female	34	Credit Card	5
+502	Pen	Stationery	33751.32	1	33751.32	2024-04-11	2024-04-18	Pune	Amit	Male	39	Cash on Delivery	1
+503	Monitor	Electronics	22179.77	1	22179.77	2023-07-23	2023-07-31	Jaipur	Arjun	Male	26	Debit Card	3
+504	Monitor	Electronics	28432.52	4	113730.08	2023-02-03	2023-02-05	Kolkata	Shoaib	Female	44	UPI	2
+505	Monitor	Electronics	44843.62	4	179374.48	2024-04-20	2024-04-25	Mumbai	Meena	Male	35	Credit Card	5
+506	Printer	Electronics	21593.43	5	107967.15	2024-06-30	2024-07-03	Chennai	Fatima	Male	25	Credit Card	2
+507	Bag	Accessories	14792.64	5	73963.2	2024-01-31	2024-02-09	Kolkata	Neha	Female	54	UPI	4
+508	Mouse	Electronics	41245.81	4	164983.24	2024-05-17	2024-05-25	Chennai	Meena	Female	27	Net Banking	3
+509	Mouse	Electronics	33994.81	4	135979.24	2023-09-16	2023-09-24	Pune	Vikram	Female	45	Debit Card	5
+510	Chair	Furniture	19734.31	4	78937.24	2023-03-13	2023-03-22	Chennai	Ravi	Male	54	Debit Card	4
+511	Notebook	Stationery	22201.82	3	66605.46	2023-01-02	2023-01-05	Chennai	Arjun	Male	40	Credit Card	3
+512	Printer	Electronics	30708.11	3	92124.33	2023-12-07	2023-12-15	Hyderabad	Fatima	Female	53	UPI	2
+513	Bag	Accessories	40334.02	3	121002.06	2024-01-31	2024-02-09	Pune	Fatima	Female	37	Net Banking	5
+514	Laptop	Electronics	29880.64	1	29880.64	2023-12-13	2023-12-23	Delhi	Sneha	Female	19	Net Banking	5
+515	Chair	Furniture	18779.47	4	75117.88	2024-07-09	2024-07-19	Bengaluru	Sana	Male	25	UPI	3
+516	Monitor	Electronics	17978.67	5	89893.35	2024-07-19	2024-07-27	Bengaluru	Shoaib	Male	48	Debit Card	3
+517	Printer	Electronics	26391.54	5	131957.7	2024-01-15	2024-01-19	Kolkata	Arjun	Female	56	Debit Card	1
+518	Printer	Electronics	16579.76	5	82898.8	2023-07-06	2023-07-14	Pune	Nikhil	Male	59	Net Banking	5
+519	Pen	Stationery	49747.6	4	198990.4	2023-03-10	2023-03-12	Pune	Vikram	Female	45	Credit Card	5
+520	Notebook	Stationery	15202.59	2	30405.18	2023-08-11	2023-08-14	Chennai	Priya	Female	39	Credit Card	4
+521	Monitor	Electronics	35332.91	2	70665.82	2024-06-03	2024-06-12	Pune	Shoaib	Female	40	Debit Card	3
+522	Bag	Accessories	28190.01	4	112760.04	2024-06-16	2024-06-19	Mumbai	Priya	Female	32	Net Banking	1
+523	Laptop	Electronics	33374.35	3	100123.05	2024-07-08	2024-07-18	Jaipur	Ravi	Female	42	Net Banking	1
+524	Chair	Furniture	2162.33	2	4324.66	2023-04-19	2023-04-24	Delhi	Amit	Female	19	Credit Card	1
+525	Desk	Furniture	14075.79	4	56303.16	2023-03-01	2023-03-11	Delhi	Priya	Male	58	Net Banking	4
+526	Printer	Electronics	40568.74	4	162274.96	2024-01-27	2024-02-06	Jaipur	Kavita	Male	34	Credit Card	3
+527	Pen	Stationery	32840.99	5	164204.95	2024-08-05	2024-08-11	Kolkata	Rahul	Male	58	UPI	4
+528	Monitor	Electronics	15838.47	4	63353.88	2024-05-25	2024-05-27	Kolkata	Ravi	Female	38	Net Banking	3
+529	Desk	Furniture	26489.0	4	105956.0	2023-10-02	2023-10-11	Delhi	Amit	Female	59	Debit Card	2
+530	Chair	Furniture	6838.37	1	6838.37	2024-06-13	2024-06-19	Kolkata	Meena	Female	18	Credit Card	2
+531	Printer	Electronics	14039.65	3	42118.95	2023-08-01	2023-08-08	Jaipur	Amit	Male	37	UPI	2
+532	Desk	Furniture	18597.75	2	37195.5	2023-01-30	2023-02-01	Chennai	Imran	Female	22	Net Banking	1
+533	Pen	Stationery	38855.64	2	77711.28	2023-08-24	2023-08-28	Bengaluru	Neha	Male	29	Debit Card	3
+534	Mouse	Electronics	18583.43	3	55750.29	2024-02-06	2024-02-11	Delhi	Sneha	Female	44	UPI	4
+535	Laptop	Electronics	35998.79	5	179993.95	2023-11-25	2023-11-29	Mumbai	Sneha	Male	30	UPI	5
+536	Bag	Accessories	38557.6	1	38557.6	2023-02-28	2023-03-06	Pune	Amit	Male	42	Credit Card	1
+537	Pen	Stationery	43658.77	5	218293.85	2023-02-08	2023-02-17	Pune	Sana	Male	36	Cash on Delivery	2
+538	Bag	Accessories	21449.35	5	107246.75	2023-10-16	2023-10-25	Delhi	Priya	Male	60	Net Banking	2
+539	Mouse	Electronics	32276.76	5	161383.8	2023-11-13	2023-11-17	Delhi	Sana	Female	28	Credit Card	2
+540	Chair	Furniture	11566.54	4	46266.16	2023-11-03	2023-11-06	Bengaluru	Imran	Female	18	Debit Card	3
+541	Mouse	Electronics	29558.7	1	29558.7	2023-07-27	2023-08-06	Hyderabad	Arjun	Male	41	UPI	1
+542	Mouse	Electronics	23220.75	1	23220.75	2024-01-02	2024-01-09	Bengaluru	Ravi	Female	45	Net Banking	3
+543	Mouse	Electronics	39052.47	4	156209.88	2023-09-10	2023-09-18	Bengaluru	Amit	Male	52	Net Banking	4
+544	Laptop	Electronics	13665.83	3	40997.49	2024-04-07	2024-04-12	Delhi	Fatima	Male	23	Net Banking	2
+545	Notebook	Stationery	33514.05	2	67028.1	2023-02-01	2023-02-11	Pune	Amit	Male	37	Cash on Delivery	3
+546	Bag	Accessories	48550.33	2	97100.66	2024-02-27	2024-03-01	Jaipur	Priya	Female	44	Cash on Delivery	1
+547	Bag	Accessories	48846.77	2	97693.54	2024-07-02	2024-07-08	Pune	Nikhil	Male	53	Net Banking	5
+548	Laptop	Electronics	3214.79	2	6429.58	2023-04-12	2023-04-20	Jaipur	Fatima	Female	28	Net Banking	1
+549	Bag	Accessories	12555.85	3	37667.55	2023-08-24	2023-09-02	Hyderabad	Shoaib	Female	31	UPI	2
+550	Chair	Furniture	47261.13	4	189044.52	2024-07-03	2024-07-11	Kolkata	Arjun	Male	54	Cash on Delivery	3
+551	Printer	Electronics	27250.93	3	81752.79	2024-08-19	2024-08-25	Chennai	Meena	Female	35	UPI	5
+552	Printer	Electronics	4413.46	2	8826.92	2023-09-01	2023-09-05	Chennai	Sana	Male	29	Net Banking	3
+553	Pen	Stationery	40565.31	3	121695.93	2023-09-12	2023-09-22	Delhi	Amit	Male	33	UPI	4
+554	Desk	Furniture	12942.52	1	12942.52	2024-01-29	2024-02-06	Chennai	Sneha	Female	49	UPI	3
+555	Notebook	Stationery	31873.85	2	63747.7	2024-05-27	2024-06-03	Delhi	Nikhil	Male	42	Debit Card	4
+556	Pen	Stationery	6886.43	1	6886.43	2023-07-14	2023-07-24	Jaipur	Amit	Male	49	Debit Card	4
+557	Chair	Furniture	42100.27	2	84200.54	2024-05-05	2024-05-10	Kolkata	Vikram	Male	20	Net Banking	4
+558	Mouse	Electronics	14735.04	3	44205.12	2024-08-17	2024-08-20	Jaipur	Rahul	Male	23	Credit Card	3
+559	Keyboard	Electronics	36268.6	5	181343.0	2023-01-26	2023-01-31	Delhi	Amit	Female	19	Credit Card	1
+560	Bag	Accessories	8896.73	4	35586.92	2023-08-18	2023-08-24	Chennai	Imran	Male	24	Credit Card	5
+561	Bag	Accessories	203.65	5	1018.25	2023-02-10	2023-02-16	Bengaluru	Fatima	Male	36	Debit Card	4
+562	Printer	Electronics	38225.97	3	114677.91	2023-08-22	2023-08-26	Jaipur	Ravi	Female	18	Debit Card	4
+563	Chair	Furniture	30963.81	4	123855.24	2024-01-19	2024-01-25	Hyderabad	Arjun	Male	34	Cash on Delivery	3
+564	Bag	Accessories	4879.36	1	4879.36	2023-11-06	2023-11-08	Hyderabad	Shoaib	Male	37	Cash on Delivery	3
+565	Bag	Accessories	23075.64	3	69226.92	2023-01-04	2023-01-11	Pune	Priya	Female	39	UPI	5
+566	Chair	Furniture	9246.49	1	9246.49	2024-02-08	2024-02-12	Bengaluru	Arjun	Male	20	Net Banking	1
+567	Bag	Accessories	1420.09	4	5680.36	2023-01-04	2023-01-13	Chennai	Kavita	Male	51	Debit Card	2
+568	Desk	Furniture	21025.01	5	105125.05	2024-06-20	2024-06-22	Delhi	Nikhil	Female	29	UPI	1
+569	Desk	Furniture	49995.87	5	249979.35	2023-01-02	2023-01-07	Pune	Fatima	Female	29	Cash on Delivery	1
+570	Pen	Stationery	43705.74	1	43705.74	2023-07-10	2023-07-19	Bengaluru	Vikram	Male	60	Net Banking	1
+571	Bag	Accessories	19057.44	5	95287.2	2024-03-13	2024-03-23	Bengaluru	Amit	Male	33	Cash on Delivery	3
+572	Mouse	Electronics	13054.54	2	26109.08	2023-11-19	2023-11-26	Kolkata	Rahul	Female	37	Debit Card	4
+573	Laptop	Electronics	26887.27	5	134436.35	2023-10-02	2023-10-06	Hyderabad	Neha	Female	50	UPI	5
+574	Printer	Electronics	21973.94	5	109869.7	2023-03-25	2023-04-01	Pune	Neha	Male	46	UPI	4
+575	Chair	Furniture	30519.24	2	61038.48	2023-01-13	2023-01-15	Jaipur	Nikhil	Male	22	Net Banking	5
+576	Monitor	Electronics	10970.37	5	54851.85	2024-02-11	2024-02-18	Pune	Kavita	Male	43	Credit Card	1
+577	Monitor	Electronics	21197.37	2	42394.74	2023-10-05	2023-10-10	Bengaluru	Arjun	Female	45	Cash on Delivery	3
+578	Laptop	Electronics	38893.95	2	77787.9	2023-06-21	2023-06-30	Jaipur	Sana	Male	53	Credit Card	4
+579	Chair	Furniture	42355.91	2	84711.82	2023-07-28	2023-07-30	Chennai	Neha	Male	54	Credit Card	1
+580	Monitor	Electronics	20102.08	1	20102.08	2024-02-15	2024-02-19	Kolkata	Kavita	Female	21	Cash on Delivery	4
+581	Bag	Accessories	34735.92	2	69471.84	2023-09-15	2023-09-25	Pune	Kavita	Female	40	Credit Card	4
+582	Mouse	Electronics	48424.15	3	145272.45	2023-10-27	2023-11-05	Mumbai	Ravi	Female	36	Net Banking	5
+583	Monitor	Electronics	28922.99	2	57845.98	2023-03-28	2023-04-07	Jaipur	Amit	Male	37	Credit Card	1
+584	Pen	Stationery	16279.33	2	32558.66	2024-03-15	2024-03-17	Kolkata	Fatima	Male	45	UPI	5
+585	Bag	Accessories	20312.46	2	40624.92	2024-02-26	2024-02-28	Mumbai	Nikhil	Female	31	Credit Card	3
+586	Bag	Accessories	45125.54	5	225627.7	2023-06-12	2023-06-20	Kolkata	Sana	Female	20	Cash on Delivery	1
+587	Mouse	Electronics	44163.59	1	44163.59	2023-04-07	2023-04-14	Pune	Imran	Female	30	Debit Card	3
+588	Chair	Furniture	29104.79	2	58209.58	2023-08-03	2023-08-07	Hyderabad	Fatima	Male	23	Credit Card	2
+589	Laptop	Electronics	36910.7	2	73821.4	2023-12-15	2023-12-18	Hyderabad	Sana	Male	25	Debit Card	3
+590	Chair	Furniture	13806.44	1	13806.44	2024-03-23	2024-03-30	Mumbai	Meena	Female	44	Cash on Delivery	4
+591	Chair	Furniture	19359.5	3	58078.5	2023-07-29	2023-08-05	Mumbai	Meena	Male	59	Net Banking	1
+592	Desk	Furniture	24687.42	2	49374.84	2023-09-20	2023-09-26	Pune	Ravi	Male	37	Net Banking	4
+593	Bag	Accessories	27675.28	1	27675.28	2024-02-09	2024-02-11	Hyderabad	Priya	Female	50	UPI	1
+594	Pen	Stationery	31453.47	4	125813.88	2023-02-13	2023-02-16	Mumbai	Rahul	Female	37	UPI	3
+595	Desk	Furniture	3459.37	3	10378.11	2024-02-16	2024-02-22	Mumbai	Sana	Male	39	Debit Card	1
+596	Desk	Furniture	44690.77	5	223453.85	2023-08-02	2023-08-10	Chennai	Amit	Female	58	Debit Card	5
+597	Laptop	Electronics	48372.03	1	48372.03	2024-06-04	2024-06-11	Mumbai	Sneha	Male	34	UPI	5
+598	Mouse	Electronics	36579.11	1	36579.11	2023-03-03	2023-03-12	Mumbai	Neha	Male	18	Cash on Delivery	4
+599	Laptop	Electronics	28870.35	5	144351.75	2024-08-19	2024-08-28	Jaipur	Neha	Male	45	Credit Card	1
+600	Monitor	Electronics	4556.69	1	4556.69	2024-07-20	2024-07-23	Kolkata	Ravi	Male	43	Net Banking	3
+601	Pen	Stationery	39063.06	4	156252.24	2024-07-30	2024-08-07	Hyderabad	Nikhil	Male	50	Debit Card	1
+602	Printer	Electronics	8348.57	1	8348.57	2023-08-02	2023-08-04	Bengaluru	Meena	Female	43	UPI	2
+603	Notebook	Stationery	35374.6	4	141498.4	2023-09-29	2023-10-02	Bengaluru	Arjun	Female	24	Debit Card	1
+604	Laptop	Electronics	19129.03	2	38258.06	2024-03-06	2024-03-11	Kolkata	Nikhil	Male	38	Debit Card	1
+605	Bag	Accessories	21771.63	2	43543.26	2024-05-07	2024-05-16	Hyderabad	Imran	Female	50	Debit Card	3
+606	Laptop	Electronics	26730.76	3	80192.28	2024-08-05	2024-08-10	Kolkata	Priya	Male	37	Credit Card	2
+607	Bag	Accessories	39242.71	3	117728.13	2023-07-07	2023-07-09	Kolkata	Imran	Male	21	Cash on Delivery	5
+608	Printer	Electronics	36286.39	4	145145.56	2023-03-07	2023-03-14	Kolkata	Imran	Female	49	Net Banking	5
+609	Printer	Electronics	49640.35	4	198561.4	2023-07-13	2023-07-22	Kolkata	Kavita	Male	30	Net Banking	2
+610	Printer	Electronics	32564.03	2	65128.06	2023-04-28	2023-05-08	Kolkata	Sneha	Female	54	Cash on Delivery	4
+611	Printer	Electronics	27396.76	3	82190.28	2023-08-28	2023-08-30	Jaipur	Sneha	Female	36	Cash on Delivery	5
+612	Monitor	Electronics	17646.25	5	88231.25	2023-11-14	2023-11-16	Hyderabad	Arjun	Female	55	Debit Card	5
+613	Notebook	Stationery	7731.38	3	23194.14	2024-07-25	2024-08-04	Chennai	Meena	Male	60	Debit Card	4
+614	Chair	Furniture	9671.94	4	38687.76	2023-11-10	2023-11-13	Delhi	Nikhil	Female	44	Cash on Delivery	5
+615	Bag	Accessories	16324.89	5	81624.45	2024-03-31	2024-04-07	Delhi	Arjun	Female	21	Credit Card	1
+616	Desk	Furniture	23436.73	3	70310.19	2024-02-21	2024-03-01	Pune	Amit	Male	24	UPI	5
+617	Bag	Accessories	36448.49	3	109345.47	2024-01-06	2024-01-09	Kolkata	Nikhil	Male	47	Debit Card	1
+618	Chair	Furniture	13133.4	4	52533.6	2023-05-17	2023-05-22	Pune	Sneha	Male	19	Credit Card	4
+619	Bag	Accessories	2491.34	3	7474.02	2024-02-19	2024-02-29	Chennai	Arjun	Female	20	Net Banking	3
+620	Laptop	Electronics	36191.66	1	36191.66	2024-02-26	2024-02-29	Mumbai	Meena	Female	26	Cash on Delivery	3
+621	Laptop	Electronics	47479.77	2	94959.54	2023-04-07	2023-04-16	Jaipur	Fatima	Male	18	Debit Card	3
+622	Notebook	Stationery	7386.14	1	7386.14	2024-04-20	2024-04-29	Pune	Shoaib	Male	29	Cash on Delivery	2
+623	Chair	Furniture	13177.27	2	26354.54	2024-06-02	2024-06-07	Pune	Imran	Male	37	Debit Card	5
+624	Laptop	Electronics	44385.98	4	177543.92	2024-05-23	2024-06-02	Mumbai	Meena	Female	54	Debit Card	5
+625	Laptop	Electronics	10755.65	4	43022.6	2023-05-31	2023-06-04	Pune	Nikhil	Male	46	UPI	5
+626	Notebook	Stationery	27495.28	2	54990.56	2024-05-31	2024-06-07	Pune	Meena	Female	59	Credit Card	3
+627	Bag	Accessories	46481.28	3	139443.84	2024-07-31	2024-08-10	Pune	Neha	Female	40	Credit Card	2
+628	Notebook	Stationery	2150.26	1	2150.26	2023-07-10	2023-07-12	Mumbai	Meena	Male	18	Debit Card	2
+629	Keyboard	Electronics	21061.6	4	84246.4	2023-06-26	2023-07-02	Bengaluru	Meena	Male	46	UPI	5
+630	Chair	Furniture	46398.8	1	46398.8	2023-02-07	2023-02-10	Mumbai	Amit	Female	20	UPI	4
+631	Monitor	Electronics	32243.64	5	161218.2	2023-03-01	2023-03-07	Kolkata	Arjun	Male	55	UPI	3
+632	Laptop	Electronics	7397.12	1	7397.12	2023-12-08	2023-12-17	Hyderabad	Ravi	Female	42	Cash on Delivery	3
+633	Pen	Stationery	2545.71	5	12728.55	2024-08-20	2024-08-24	Kolkata	Sneha	Female	50	Cash on Delivery	5
+634	Monitor	Electronics	2351.09	3	7053.27	2023-01-13	2023-01-23	Bengaluru	Rahul	Male	46	Cash on Delivery	5
+635	Desk	Furniture	6276.22	4	25104.88	2024-01-23	2024-01-30	Delhi	Ravi	Male	19	Credit Card	4
+636	Notebook	Stationery	15461.73	4	61846.92	2024-08-23	2024-08-29	Bengaluru	Shoaib	Female	48	UPI	5
+637	Monitor	Electronics	1307.0	3	3921.0	2023-03-02	2023-03-09	Delhi	Priya	Female	40	Net Banking	1
+638	Pen	Stationery	5666.55	3	16999.65	2024-08-16	2024-08-21	Mumbai	Nikhil	Female	46	UPI	4
+639	Desk	Furniture	953.58	1	953.58	2023-11-21	2023-12-01	Jaipur	Fatima	Male	60	Net Banking	2
+640	Mouse	Electronics	26006.4	4	104025.6	2023-11-03	2023-11-09	Mumbai	Meena	Female	40	Cash on Delivery	5
+641	Monitor	Electronics	13837.85	3	41513.55	2023-12-05	2023-12-14	Bengaluru	Neha	Male	24	Net Banking	5
+642	Pen	Stationery	28480.19	2	56960.38	2023-08-25	2023-09-01	Hyderabad	Shoaib	Male	18	Debit Card	2
+643	Chair	Furniture	39353.5	5	196767.5	2024-06-27	2024-07-03	Mumbai	Fatima	Male	22	UPI	3
+644	Desk	Furniture	28242.76	1	28242.76	2024-07-28	2024-08-01	Pune	Ravi	Female	60	UPI	4
+645	Keyboard	Electronics	4163.09	4	16652.36	2024-05-20	2024-05-24	Hyderabad	Vikram	Female	32	Debit Card	4
+646	Bag	Accessories	3007.17	3	9021.51	2023-06-27	2023-06-30	Kolkata	Neha	Male	52	Debit Card	3
+647	Printer	Electronics	27628.77	2	55257.54	2023-02-08	2023-02-17	Hyderabad	Kavita	Male	21	Debit Card	2
+648	Keyboard	Electronics	32273.89	5	161369.45	2024-03-18	2024-03-25	Jaipur	Ravi	Male	27	Net Banking	3
+649	Desk	Furniture	40100.82	3	120302.46	2023-07-07	2023-07-17	Chennai	Meena	Male	40	Debit Card	4
+650	Notebook	Stationery	14036.62	3	42109.86	2023-09-11	2023-09-14	Hyderabad	Rahul	Female	58	Cash on Delivery	5
+651	Notebook	Stationery	42349.01	3	127047.03	2024-08-10	2024-08-17	Jaipur	Meena	Male	41	Debit Card	4
+652	Chair	Furniture	10383.33	2	20766.66	2023-01-30	2023-02-06	Chennai	Shoaib	Male	42	UPI	3
+653	Printer	Electronics	28334.75	1	28334.75	2024-02-19	2024-02-25	Kolkata	Nikhil	Female	39	Debit Card	5
+654	Printer	Electronics	8565.4	1	8565.4	2024-07-21	2024-07-28	Mumbai	Sneha	Male	35	Cash on Delivery	3
+655	Laptop	Electronics	30255.78	1	30255.78	2024-01-13	2024-01-15	Mumbai	Nikhil	Male	35	Net Banking	5
+656	Keyboard	Electronics	27039.13	3	81117.39	2023-11-27	2023-12-03	Kolkata	Shoaib	Female	21	Cash on Delivery	4
+657	Printer	Electronics	10076.36	1	10076.36	2023-08-02	2023-08-08	Kolkata	Nikhil	Male	25	Credit Card	4
+658	Keyboard	Electronics	41375.02	5	206875.1	2023-11-14	2023-11-17	Kolkata	Priya	Female	55	UPI	1
+659	Pen	Stationery	36243.5	5	181217.5	2023-03-30	2023-04-05	Chennai	Vikram	Male	43	Credit Card	1
+660	Chair	Furniture	45275.18	4	181100.72	2024-07-29	2024-07-31	Pune	Ravi	Female	49	Cash on Delivery	5
+661	Laptop	Electronics	20846.08	4	83384.32	2023-07-28	2023-08-06	Delhi	Imran	Male	38	Net Banking	2
+662	Bag	Accessories	9553.78	2	19107.56	2023-01-23	2023-01-27	Chennai	Kavita	Male	19	Credit Card	3
+663	Desk	Furniture	10657.18	2	21314.36	2024-02-14	2024-02-22	Hyderabad	Sneha	Female	45	UPI	1
+664	Pen	Stationery	49276.99	3	147830.97	2023-11-02	2023-11-10	Hyderabad	Vikram	Male	25	Debit Card	3
+665	Mouse	Electronics	35132.54	2	70265.08	2024-04-05	2024-04-09	Chennai	Nikhil	Male	23	UPI	4
+666	Chair	Furniture	13072.17	1	13072.17	2023-06-28	2023-06-30	Mumbai	Imran	Female	29	Debit Card	2
+667	Printer	Electronics	19539.5	5	97697.5	2023-10-01	2023-10-05	Chennai	Kavita	Male	29	Debit Card	4
+668	Printer	Electronics	31991.28	5	159956.4	2024-07-13	2024-07-23	Jaipur	Vikram	Female	26	Cash on Delivery	4
+669	Monitor	Electronics	22895.73	2	45791.46	2023-12-12	2023-12-14	Bengaluru	Rahul	Female	52	UPI	4
+670	Mouse	Electronics	25500.1	4	102000.4	2024-02-16	2024-02-21	Hyderabad	Nikhil	Male	21	Net Banking	2
+671	Pen	Stationery	29890.81	2	59781.62	2023-01-01	2023-01-05	Hyderabad	Kavita	Female	58	Debit Card	5
+672	Desk	Furniture	8024.92	3	24074.76	2023-12-06	2023-12-16	Chennai	Imran	Male	45	Cash on Delivery	1
+673	Printer	Electronics	44839.82	5	224199.1	2023-04-17	2023-04-19	Chennai	Shoaib	Male	46	Debit Card	1
+674	Mouse	Electronics	2668.99	2	5337.98	2023-06-09	2023-06-18	Mumbai	Neha	Male	29	Credit Card	3
+675	Pen	Stationery	47188.45	1	47188.45	2023-09-03	2023-09-12	Jaipur	Shoaib	Female	24	UPI	5
+676	Laptop	Electronics	7558.62	3	22675.86	2023-05-13	2023-05-23	Delhi	Arjun	Female	38	Net Banking	4
+677	Monitor	Electronics	15285.04	1	15285.04	2023-12-13	2023-12-15	Mumbai	Meena	Male	25	Cash on Delivery	4
+678	Mouse	Electronics	10812.44	4	43249.76	2023-11-21	2023-12-01	Pune	Sneha	Female	21	UPI	5
+679	Notebook	Stationery	8013.87	2	16027.74	2023-02-09	2023-02-11	Jaipur	Sana	Male	33	Debit Card	4
+680	Printer	Electronics	42990.33	4	171961.32	2023-01-03	2023-01-05	Bengaluru	Nikhil	Male	37	Credit Card	5
+681	Printer	Electronics	37293.31	1	37293.31	2024-04-20	2024-04-26	Mumbai	Amit	Female	41	Credit Card	5
+682	Notebook	Stationery	8209.54	1	8209.54	2023-08-08	2023-08-15	Delhi	Imran	Female	33	Debit Card	2
+683	Monitor	Electronics	30559.31	5	152796.55	2024-08-11	2024-08-14	Delhi	Sana	Female	38	Net Banking	1
+684	Keyboard	Electronics	22956.8	1	22956.8	2024-07-02	2024-07-12	Pune	Vikram	Male	21	Net Banking	4
+685	Pen	Stationery	7948.09	5	39740.45	2023-02-04	2023-02-10	Kolkata	Amit	Female	52	Debit Card	4
+686	Mouse	Electronics	15644.81	1	15644.81	2023-09-07	2023-09-09	Hyderabad	Arjun	Female	24	Debit Card	3
+687	Keyboard	Electronics	6382.11	2	12764.22	2024-04-19	2024-04-29	Chennai	Shoaib	Female	25	Net Banking	2
+688	Laptop	Electronics	9049.06	3	27147.18	2023-01-14	2023-01-23	Mumbai	Priya	Male	50	Cash on Delivery	1
+689	Keyboard	Electronics	6473.92	1	6473.92	2024-02-13	2024-02-16	Hyderabad	Imran	Male	34	UPI	2
+690	Keyboard	Electronics	26851.6	5	134258.0	2023-01-15	2023-01-17	Chennai	Amit	Female	37	UPI	2
+691	Laptop	Electronics	28131.5	5	140657.5	2023-03-19	2023-03-25	Kolkata	Nikhil	Female	33	Net Banking	5
+692	Laptop	Electronics	9417.65	3	28252.95	2024-01-11	2024-01-21	Chennai	Sneha	Female	24	Net Banking	2
+693	Bag	Accessories	27711.25	1	27711.25	2024-01-20	2024-01-24	Jaipur	Priya	Male	39	Credit Card	1
+694	Mouse	Electronics	22922.2	1	22922.2	2024-06-08	2024-06-14	Bengaluru	Fatima	Male	36	UPI	5
+695	Monitor	Electronics	21863.44	4	87453.76	2024-04-04	2024-04-10	Mumbai	Vikram	Male	40	UPI	2
+696	Pen	Stationery	2321.33	2	4642.66	2024-04-11	2024-04-15	Mumbai	Kavita	Female	23	Net Banking	4
+697	Pen	Stationery	1766.91	4	7067.64	2023-08-12	2023-08-20	Delhi	Sana	Male	31	Debit Card	2
+698	Laptop	Electronics	32335.97	5	161679.85	2023-12-30	2024-01-05	Mumbai	Priya	Female	53	UPI	2
+699	Notebook	Stationery	17861.4	3	53584.2	2024-05-26	2024-05-30	Mumbai	Arjun	Male	57	Cash on Delivery	1
+700	Bag	Accessories	44699.32	2	89398.64	2023-03-29	2023-04-04	Jaipur	Amit	Female	33	Net Banking	4
+701	Printer	Electronics	27742.7	4	110970.8	2024-02-15	2024-02-24	Delhi	Priya	Male	27	Net Banking	1
+702	Notebook	Stationery	42923.41	2	85846.82	2024-01-02	2024-01-04	Jaipur	Kavita	Female	30	Debit Card	4
+703	Printer	Electronics	3686.67	5	18433.35	2023-11-06	2023-11-08	Jaipur	Imran	Female	29	Credit Card	1
+704	Mouse	Electronics	45833.93	4	183335.72	2023-01-08	2023-01-16	Jaipur	Vikram	Female	38	Net Banking	1
+705	Monitor	Electronics	33657.43	5	168287.15	2023-07-15	2023-07-17	Delhi	Ravi	Male	40	Credit Card	1
+706	Laptop	Electronics	11117.62	2	22235.24	2023-11-24	2023-12-04	Hyderabad	Rahul	Male	28	Net Banking	1
+707	Desk	Furniture	17620.75	2	35241.5	2023-04-02	2023-04-05	Bengaluru	Arjun	Female	26	Credit Card	4
+708	Bag	Accessories	47694.36	1	47694.36	2024-07-03	2024-07-06	Hyderabad	Rahul	Female	21	Cash on Delivery	4
+709	Pen	Stationery	3305.39	1	3305.39	2024-04-16	2024-04-25	Hyderabad	Priya	Male	56	Net Banking	3
+710	Pen	Stationery	11241.33	3	33723.99	2023-10-28	2023-10-31	Chennai	Sneha	Male	29	UPI	5
+711	Printer	Electronics	1024.92	3	3074.76	2024-07-27	2024-08-01	Bengaluru	Fatima	Male	42	Net Banking	3
+712	Bag	Accessories	18064.34	3	54193.02	2024-04-10	2024-04-16	Hyderabad	Neha	Male	52	Net Banking	5
+713	Monitor	Electronics	22610.6	4	90442.4	2024-07-05	2024-07-08	Pune	Vikram	Female	45	UPI	1
+714	Printer	Electronics	9786.58	3	29359.74	2023-05-06	2023-05-08	Hyderabad	Meena	Female	32	UPI	1
+715	Bag	Accessories	1443.49	5	7217.45	2023-04-14	2023-04-19	Bengaluru	Neha	Female	23	Cash on Delivery	2
+716	Bag	Accessories	42293.88	1	42293.88	2024-06-07	2024-06-16	Hyderabad	Ravi	Female	58	Credit Card	1
+717	Keyboard	Electronics	8239.32	4	32957.28	2023-08-24	2023-08-29	Chennai	Imran	Female	37	Net Banking	2
+718	Chair	Furniture	49181.48	5	245907.4	2023-04-15	2023-04-20	Jaipur	Kavita	Male	56	Cash on Delivery	5
+719	Mouse	Electronics	4771.48	4	19085.92	2024-04-23	2024-04-25	Pune	Neha	Female	32	Cash on Delivery	5
+720	Notebook	Stationery	32081.86	3	96245.58	2024-06-20	2024-06-24	Mumbai	Kavita	Female	52	Debit Card	5
+721	Keyboard	Electronics	8970.85	1	8970.85	2024-05-01	2024-05-07	Pune	Ravi	Female	43	Credit Card	5
+722	Printer	Electronics	428.67	2	857.34	2024-03-06	2024-03-13	Bengaluru	Meena	Male	38	Cash on Delivery	1
+723	Printer	Electronics	19419.61	4	77678.44	2024-05-07	2024-05-15	Pune	Arjun	Male	35	Credit Card	5
+724	Chair	Furniture	29509.74	3	88529.22	2023-05-09	2023-05-18	Kolkata	Vikram	Male	26	Credit Card	3
+725	Pen	Stationery	11848.79	4	47395.16	2023-08-22	2023-08-25	Jaipur	Meena	Female	59	Debit Card	3
+726	Keyboard	Electronics	39210.77	5	196053.85	2023-07-22	2023-07-30	Hyderabad	Arjun	Female	58	Net Banking	1
+727	Mouse	Electronics	29204.1	2	58408.2	2023-12-23	2024-01-01	Jaipur	Sana	Male	35	Credit Card	3
+728	Notebook	Stationery	40502.93	4	162011.72	2023-08-28	2023-08-31	Kolkata	Sneha	Female	46	UPI	1
+729	Desk	Furniture	14876.54	2	29753.08	2023-10-06	2023-10-15	Mumbai	Neha	Male	21	Debit Card	5
+730	Keyboard	Electronics	11862.22	2	23724.44	2024-03-12	2024-03-18	Chennai	Vikram	Male	33	Debit Card	4
+731	Desk	Furniture	15648.9	5	78244.5	2024-05-28	2024-06-06	Bengaluru	Sneha	Male	51	Net Banking	3
+732	Pen	Stationery	6408.51	5	32042.55	2023-02-03	2023-02-08	Bengaluru	Rahul	Female	34	Credit Card	4
+733	Keyboard	Electronics	30264.37	4	121057.48	2024-07-01	2024-07-09	Jaipur	Meena	Female	39	Credit Card	4
+734	Bag	Accessories	49691.4	2	99382.8	2023-09-13	2023-09-19	Bengaluru	Sneha	Male	23	Cash on Delivery	1
+735	Laptop	Electronics	27656.07	5	138280.35	2024-01-11	2024-01-14	Hyderabad	Sana	Male	35	Net Banking	1
+736	Monitor	Electronics	41917.09	1	41917.09	2023-02-10	2023-02-18	Delhi	Nikhil	Female	24	Cash on Delivery	1
+737	Keyboard	Electronics	42356.2	3	127068.6	2024-05-18	2024-05-28	Mumbai	Meena	Female	28	Debit Card	1
+738	Notebook	Stationery	7823.73	2	15647.46	2024-05-18	2024-05-25	Bengaluru	Kavita	Male	35	Cash on Delivery	3
+739	Keyboard	Electronics	49243.48	2	98486.96	2023-11-15	2023-11-20	Chennai	Fatima	Female	41	Net Banking	4
+740	Mouse	Electronics	38910.32	1	38910.32	2023-12-17	2023-12-22	Kolkata	Amit	Male	39	Net Banking	4
+741	Printer	Electronics	36193.21	4	144772.84	2023-09-03	2023-09-08	Delhi	Imran	Male	39	Debit Card	1
+742	Pen	Stationery	16795.65	3	50386.95	2023-01-19	2023-01-28	Jaipur	Amit	Female	55	UPI	2
+743	Notebook	Stationery	33570.18	4	134280.72	2023-07-17	2023-07-22	Kolkata	Rahul	Male	56	Debit Card	1
+744	Bag	Accessories	8450.05	3	25350.15	2023-12-28	2024-01-03	Hyderabad	Imran	Female	50	Credit Card	4
+745	Chair	Furniture	1677.15	1	1677.15	2023-10-21	2023-10-26	Hyderabad	Imran	Female	50	UPI	4
+746	Keyboard	Electronics	28630.11	1	28630.11	2024-02-23	2024-02-28	Pune	Ravi	Male	45	Debit Card	1
+747	Chair	Furniture	35353.74	5	176768.7	2023-01-20	2023-01-30	Mumbai	Arjun	Female	28	Net Banking	3
+748	Bag	Accessories	2289.1	1	2289.1	2023-04-16	2023-04-23	Jaipur	Vikram	Male	18	Debit Card	3
+749	Keyboard	Electronics	6910.77	2	13821.54	2023-10-27	2023-11-01	Chennai	Arjun	Female	30	Cash on Delivery	4
+750	Notebook	Stationery	7657.8	2	15315.6	2023-09-13	2023-09-19	Jaipur	Shoaib	Female	39	Credit Card	4
+751	Laptop	Electronics	13399.26	5	66996.3	2023-10-19	2023-10-22	Mumbai	Meena	Male	50	Credit Card	5
+752	Printer	Electronics	31998.81	4	127995.24	2024-08-11	2024-08-21	Mumbai	Rahul	Male	51	Debit Card	1
+753	Desk	Furniture	49738.78	3	149216.34	2024-03-05	2024-03-11	Delhi	Arjun	Male	24	Cash on Delivery	4
+754	Bag	Accessories	45186.82	1	45186.82	2023-09-20	2023-09-22	Bengaluru	Neha	Male	50	Debit Card	4
+755	Printer	Electronics	5596.67	4	22386.68	2023-09-12	2023-09-21	Pune	Ravi	Female	23	Cash on Delivery	3
+756	Desk	Furniture	40784.33	3	122352.99	2024-04-15	2024-04-20	Chennai	Nikhil	Male	35	UPI	3
+757	Mouse	Electronics	7246.21	1	7246.21	2024-04-13	2024-04-19	Jaipur	Fatima	Female	43	Cash on Delivery	1
+758	Laptop	Electronics	22175.88	4	88703.52	2024-03-17	2024-03-19	Chennai	Rahul	Male	53	Credit Card	5
+759	Pen	Stationery	47291.22	4	189164.88	2023-08-31	2023-09-03	Pune	Ravi	Female	57	Net Banking	1
+760	Notebook	Stationery	43958.97	3	131876.91	2024-03-04	2024-03-14	Hyderabad	Kavita	Male	18	Credit Card	3
+761	Notebook	Stationery	12393.22	3	37179.66	2024-02-01	2024-02-06	Bengaluru	Neha	Male	25	UPI	5
+762	Laptop	Electronics	43848.4	1	43848.4	2023-02-27	2023-03-02	Kolkata	Nikhil	Male	39	UPI	1
+763	Pen	Stationery	26212.69	5	131063.45	2024-07-24	2024-08-01	Chennai	Vikram	Female	37	Credit Card	5
+764	Monitor	Electronics	39356.3	3	118068.9	2023-12-18	2023-12-28	Mumbai	Sneha	Male	56	Cash on Delivery	1
+765	Notebook	Stationery	32476.05	1	32476.05	2024-03-24	2024-03-28	Mumbai	Meena	Female	59	UPI	3
+766	Chair	Furniture	42117.0	2	84234.0	2023-07-17	2023-07-20	Hyderabad	Ravi	Male	21	Net Banking	5
+767	Chair	Furniture	34194.53	5	170972.65	2024-06-12	2024-06-17	Chennai	Kavita	Female	52	Debit Card	1
+768	Pen	Stationery	48644.44	5	243222.2	2024-05-10	2024-05-19	Bengaluru	Meena	Female	55	Debit Card	2
+769	Laptop	Electronics	43539.11	3	130617.33	2024-04-07	2024-04-17	Chennai	Fatima	Female	20	Debit Card	2
+770	Desk	Furniture	36845.84	5	184229.2	2023-07-07	2023-07-13	Delhi	Neha	Male	48	UPI	2
+771	Pen	Stationery	43153.67	5	215768.35	2024-07-31	2024-08-06	Hyderabad	Sneha	Male	36	Cash on Delivery	4
+772	Keyboard	Electronics	34854.65	4	139418.6	2024-01-26	2024-02-03	Hyderabad	Rahul	Male	18	Credit Card	1
+773	Notebook	Stationery	46062.58	1	46062.58	2023-10-26	2023-11-04	Delhi	Arjun	Female	18	Credit Card	1
+774	Notebook	Stationery	17903.09	2	35806.18	2023-02-17	2023-02-19	Chennai	Arjun	Female	18	Cash on Delivery	5
+775	Printer	Electronics	18352.64	1	18352.64	2023-02-13	2023-02-22	Jaipur	Ravi	Female	22	Cash on Delivery	2
+776	Monitor	Electronics	12894.12	5	64470.6	2023-03-25	2023-04-02	Bengaluru	Meena	Female	57	UPI	5
+777	Chair	Furniture	45366.09	3	136098.27	2023-02-28	2023-03-02	Bengaluru	Amit	Female	35	Debit Card	3
+778	Laptop	Electronics	21931.9	1	21931.9	2023-06-14	2023-06-24	Hyderabad	Neha	Female	36	Net Banking	1
+779	Chair	Furniture	48902.27	4	195609.08	2023-10-11	2023-10-15	Kolkata	Nikhil	Male	50	Credit Card	2
+780	Desk	Furniture	15216.48	3	45649.44	2023-05-31	2023-06-05	Delhi	Kavita	Female	18	Credit Card	1
+781	Monitor	Electronics	18062.05	4	72248.2	2024-03-25	2024-03-30	Pune	Shoaib	Female	34	UPI	1
+782	Chair	Furniture	2929.27	1	2929.27	2023-06-08	2023-06-11	Chennai	Vikram	Female	56	Debit Card	5
+783	Monitor	Electronics	17795.26	2	35590.52	2023-02-12	2023-02-15	Chennai	Vikram	Female	22	UPI	2
+784	Chair	Furniture	22358.46	1	22358.46	2023-03-01	2023-03-08	Chennai	Priya	Female	52	Debit Card	5
+785	Laptop	Electronics	46193.68	3	138581.04	2023-02-23	2023-03-04	Hyderabad	Shoaib	Male	43	UPI	5
+786	Chair	Furniture	46821.48	5	234107.4	2023-12-26	2023-12-31	Delhi	Sana	Female	21	Cash on Delivery	5
+787	Mouse	Electronics	26633.96	4	106535.84	2024-02-22	2024-02-28	Chennai	Nikhil	Female	50	Net Banking	1
+788	Keyboard	Electronics	41895.12	2	83790.24	2023-04-24	2023-04-29	Bengaluru	Fatima	Female	18	Debit Card	2
+789	Pen	Stationery	18919.05	3	56757.15	2023-10-04	2023-10-08	Delhi	Shoaib	Female	38	UPI	1
+790	Printer	Electronics	840.39	2	1680.78	2023-12-08	2023-12-17	Jaipur	Ravi	Male	43	Credit Card	2
+791	Bag	Accessories	14934.1	3	44802.3	2024-05-25	2024-05-28	Mumbai	Rahul	Male	42	Debit Card	4
+792	Chair	Furniture	13596.65	4	54386.6	2023-04-25	2023-04-28	Hyderabad	Amit	Male	33	Debit Card	2
+793	Mouse	Electronics	12311.25	2	24622.5	2024-01-29	2024-02-06	Delhi	Priya	Male	43	Cash on Delivery	2
+794	Pen	Stationery	6908.12	5	34540.6	2023-07-28	2023-07-31	Mumbai	Arjun	Female	35	Cash on Delivery	4
+795	Desk	Furniture	49227.93	4	196911.72	2023-12-14	2023-12-17	Bengaluru	Imran	Male	46	Debit Card	5
+796	Laptop	Electronics	14394.29	4	57577.16	2023-01-24	2023-01-30	Delhi	Kavita	Male	24	Credit Card	2
+797	Bag	Accessories	7996.02	1	7996.02	2024-08-09	2024-08-16	Jaipur	Arjun	Female	22	Net Banking	2
+798	Monitor	Electronics	3472.16	4	13888.64	2023-10-31	2023-11-04	Kolkata	Nikhil	Male	47	Debit Card	2
+799	Monitor	Electronics	13928.86	1	13928.86	2023-07-12	2023-07-14	Delhi	Rahul	Male	35	Cash on Delivery	1
+800	Notebook	Stationery	25596.46	2	51192.92	2023-08-05	2023-08-12	Mumbai	Rahul	Male	36	Credit Card	5
+801	Pen	Stationery	32176.6	3	96529.8	2023-09-08	2023-09-10	Jaipur	Fatima	Female	40	Cash on Delivery	5
+802	Desk	Furniture	31804.3	2	63608.6	2024-08-12	2024-08-16	Hyderabad	Ravi	Male	49	Net Banking	4
+803	Notebook	Stationery	41000.51	3	123001.53	2023-03-22	2023-03-25	Pune	Ravi	Male	44	UPI	1
+804	Chair	Furniture	497.35	2	994.7	2023-12-03	2023-12-06	Delhi	Rahul	Female	57	Net Banking	3
+805	Monitor	Electronics	44080.19	2	88160.38	2023-04-18	2023-04-25	Hyderabad	Meena	Male	55	Debit Card	1
+806	Keyboard	Electronics	3009.8	5	15049.0	2023-04-15	2023-04-22	Kolkata	Sana	Male	18	Cash on Delivery	4
+807	Pen	Stationery	19451.22	2	38902.44	2024-03-12	2024-03-19	Jaipur	Kavita	Female	45	Net Banking	4
+808	Printer	Electronics	24612.32	4	98449.28	2024-05-26	2024-06-05	Pune	Vikram	Male	24	UPI	3
+809	Mouse	Electronics	15540.72	1	15540.72	2023-01-25	2023-02-03	Jaipur	Priya	Female	45	UPI	2
+810	Printer	Electronics	29708.57	5	148542.85	2024-08-05	2024-08-12	Delhi	Ravi	Male	43	Credit Card	5
+811	Laptop	Electronics	3461.58	1	3461.58	2023-12-25	2023-12-31	Jaipur	Vikram	Female	50	UPI	5
+812	Desk	Furniture	28300.96	2	56601.92	2023-11-02	2023-11-07	Bengaluru	Imran	Male	32	Cash on Delivery	3
+813	Laptop	Electronics	38385.45	4	153541.8	2024-05-25	2024-05-27	Kolkata	Nikhil	Male	41	UPI	5
+814	Notebook	Stationery	44296.19	3	132888.57	2024-01-24	2024-01-30	Pune	Arjun	Female	20	Cash on Delivery	3
+815	Desk	Furniture	15076.48	3	45229.44	2023-06-28	2023-07-06	Chennai	Rahul	Female	18	Credit Card	4
+816	Keyboard	Electronics	45267.81	2	90535.62	2024-01-29	2024-02-02	Kolkata	Ravi	Male	28	Cash on Delivery	1
+817	Monitor	Electronics	24775.74	3	74327.22	2024-06-04	2024-06-13	Bengaluru	Nikhil	Female	32	Credit Card	5
+818	Pen	Stationery	22017.61	3	66052.83	2023-05-10	2023-05-14	Hyderabad	Sneha	Male	22	Net Banking	4
+819	Mouse	Electronics	26887.31	4	107549.24	2024-03-12	2024-03-15	Pune	Meena	Female	27	Cash on Delivery	1
+820	Bag	Accessories	27491.49	2	54982.98	2024-05-27	2024-05-31	Chennai	Shoaib	Female	57	Credit Card	1
+821	Notebook	Stationery	18872.97	3	56618.91	2024-03-24	2024-03-27	Mumbai	Sneha	Male	24	Cash on Delivery	1
+822	Chair	Furniture	45473.26	4	181893.04	2024-06-29	2024-07-05	Chennai	Sana	Male	31	Debit Card	4
+823	Monitor	Electronics	33211.34	1	33211.34	2023-09-27	2023-10-04	Pune	Arjun	Female	53	Debit Card	1
+824	Laptop	Electronics	31494.12	1	31494.12	2024-03-12	2024-03-16	Bengaluru	Vikram	Female	55	Debit Card	5
+825	Desk	Furniture	16656.45	3	49969.35	2024-06-30	2024-07-04	Pune	Arjun	Female	33	Net Banking	2
+826	Chair	Furniture	7299.43	1	7299.43	2024-04-07	2024-04-12	Pune	Sneha	Male	29	Credit Card	3
+827	Notebook	Stationery	6654.08	5	33270.4	2023-09-24	2023-10-01	Bengaluru	Priya	Female	21	Cash on Delivery	5
+828	Pen	Stationery	14161.51	2	28323.02	2024-06-09	2024-06-14	Pune	Nikhil	Female	22	Net Banking	1
+829	Chair	Furniture	17150.42	4	68601.68	2024-01-21	2024-01-27	Bengaluru	Meena	Female	24	Cash on Delivery	1
+830	Pen	Stationery	44072.51	2	88145.02	2024-01-22	2024-01-29	Pune	Sneha	Female	45	UPI	1
+831	Pen	Stationery	19526.06	5	97630.3	2024-07-12	2024-07-15	Bengaluru	Ravi	Female	57	Debit Card	4
+832	Mouse	Electronics	11947.91	4	47791.64	2023-01-25	2023-01-28	Chennai	Arjun	Male	54	UPI	4
+833	Mouse	Electronics	18010.21	1	18010.21	2023-05-31	2023-06-09	Jaipur	Nikhil	Female	57	Cash on Delivery	2
+834	Laptop	Electronics	14606.27	2	29212.54	2023-03-23	2023-04-02	Bengaluru	Imran	Female	20	Cash on Delivery	2
+835	Monitor	Electronics	12333.51	1	12333.51	2023-10-05	2023-10-10	Mumbai	Sneha	Female	53	Cash on Delivery	5
+836	Printer	Electronics	42043.69	5	210218.45	2024-01-06	2024-01-13	Bengaluru	Fatima	Female	39	Net Banking	2
+837	Pen	Stationery	26006.51	5	130032.55	2024-08-23	2024-08-27	Hyderabad	Fatima	Female	34	Net Banking	1
+838	Pen	Stationery	8820.09	2	17640.18	2023-10-06	2023-10-12	Kolkata	Priya	Male	26	Cash on Delivery	1
+839	Laptop	Electronics	11606.11	2	23212.22	2023-08-14	2023-08-16	Mumbai	Imran	Male	53	Credit Card	3
+840	Pen	Stationery	1241.49	5	6207.45	2023-09-26	2023-09-29	Hyderabad	Sneha	Male	47	Cash on Delivery	3
+841	Bag	Accessories	33525.35	3	100576.05	2024-07-18	2024-07-24	Delhi	Vikram	Male	23	Net Banking	5
+842	Desk	Furniture	32379.63	5	161898.15	2023-04-05	2023-04-10	Mumbai	Nikhil	Male	41	Credit Card	4
+843	Notebook	Stationery	32214.86	2	64429.72	2023-08-06	2023-08-08	Jaipur	Nikhil	Male	18	Cash on Delivery	3
+844	Desk	Furniture	31723.09	3	95169.27	2023-06-07	2023-06-09	Chennai	Amit	Male	34	UPI	3
+845	Printer	Electronics	15016.53	3	45049.59	2023-12-31	2024-01-10	Bengaluru	Ravi	Male	39	Debit Card	3
+846	Laptop	Electronics	18300.53	2	36601.06	2024-01-24	2024-01-30	Bengaluru	Fatima	Male	60	Debit Card	4
+847	Keyboard	Electronics	39856.44	4	159425.76	2023-04-20	2023-04-24	Mumbai	Sana	Female	42	Cash on Delivery	1
+848	Laptop	Electronics	7672.04	4	30688.16	2023-09-03	2023-09-12	Chennai	Sana	Female	24	Credit Card	2
+849	Laptop	Electronics	208.77	3	626.31	2023-07-20	2023-07-28	Bengaluru	Priya	Female	36	Debit Card	1
+850	Keyboard	Electronics	15725.99	2	31451.98	2023-10-24	2023-10-31	Bengaluru	Kavita	Male	19	Cash on Delivery	3
+851	Laptop	Electronics	26007.65	2	52015.3	2023-10-26	2023-11-02	Mumbai	Fatima	Female	23	Net Banking	1
+852	Printer	Electronics	38470.89	2	76941.78	2023-03-23	2023-03-28	Bengaluru	Amit	Female	33	Net Banking	1
+853	Pen	Stationery	46487.38	2	92974.76	2023-09-26	2023-09-28	Pune	Sneha	Female	49	UPI	4
+854	Desk	Furniture	26452.63	1	26452.63	2023-04-28	2023-05-08	Delhi	Vikram	Female	21	Net Banking	2
+855	Bag	Accessories	550.99	3	1652.97	2023-02-10	2023-02-16	Kolkata	Shoaib	Male	56	UPI	3
+856	Laptop	Electronics	40642.03	3	121926.09	2023-02-07	2023-02-11	Hyderabad	Imran	Male	35	Credit Card	2
+857	Bag	Accessories	17253.32	5	86266.6	2024-05-29	2024-06-05	Hyderabad	Rahul	Female	45	Net Banking	2
+858	Monitor	Electronics	26888.86	2	53777.72	2023-09-11	2023-09-15	Mumbai	Ravi	Male	20	Debit Card	3
+859	Pen	Stationery	13887.65	4	55550.6	2023-12-31	2024-01-05	Delhi	Neha	Male	58	Cash on Delivery	2
+860	Monitor	Electronics	49622.34	3	148867.02	2024-03-03	2024-03-06	Bengaluru	Nikhil	Female	48	Cash on Delivery	5
+861	Chair	Furniture	22577.45	2	45154.9	2023-02-27	2023-03-02	Chennai	Meena	Male	32	Debit Card	3
+862	Laptop	Electronics	2216.19	1	2216.19	2023-12-20	2023-12-28	Chennai	Sneha	Female	56	UPI	5
+863	Chair	Furniture	5223.75	3	15671.25	2024-01-31	2024-02-06	Bengaluru	Vikram	Female	47	Credit Card	1
+864	Mouse	Electronics	13147.85	4	52591.4	2023-05-14	2023-05-23	Mumbai	Arjun	Female	43	Cash on Delivery	5
+865	Notebook	Stationery	44528.74	2	89057.48	2024-01-02	2024-01-07	Hyderabad	Sana	Female	52	UPI	2
+866	Desk	Furniture	21733.91	5	108669.55	2023-05-16	2023-05-18	Delhi	Amit	Female	46	Credit Card	3
+867	Laptop	Electronics	16810.54	5	84052.7	2023-03-04	2023-03-08	Kolkata	Meena	Female	24	Cash on Delivery	1
+868	Desk	Furniture	35364.65	4	141458.6	2024-01-29	2024-02-08	Mumbai	Priya	Female	36	Credit Card	3
+869	Laptop	Electronics	33313.44	5	166567.2	2023-11-05	2023-11-11	Chennai	Sana	Male	24	UPI	4
+870	Desk	Furniture	6970.87	3	20912.61	2024-04-18	2024-04-22	Delhi	Ravi	Male	21	Debit Card	3
+871	Bag	Accessories	43822.25	3	131466.75	2023-05-18	2023-05-26	Chennai	Sneha	Male	56	Debit Card	5
+872	Chair	Furniture	31273.06	2	62546.12	2023-06-24	2023-07-02	Delhi	Priya	Female	39	Credit Card	4
+873	Mouse	Electronics	17020.63	4	68082.52	2023-03-01	2023-03-06	Chennai	Fatima	Female	46	Net Banking	4
+874	Chair	Furniture	24090.53	1	24090.53	2024-03-20	2024-03-24	Jaipur	Shoaib	Male	53	Debit Card	1
+875	Desk	Furniture	17497.33	5	87486.65	2023-01-13	2023-01-16	Chennai	Priya	Male	24	Cash on Delivery	1
+876	Bag	Accessories	49068.96	3	147206.88	2024-02-22	2024-03-03	Hyderabad	Nikhil	Male	29	Debit Card	1
+877	Printer	Electronics	38142.07	3	114426.21	2024-04-10	2024-04-16	Chennai	Shoaib	Male	20	Net Banking	4
+878	Notebook	Stationery	28218.01	1	28218.01	2024-04-10	2024-04-13	Bengaluru	Meena	Male	22	Net Banking	5
+879	Mouse	Electronics	41327.87	1	41327.87	2023-07-17	2023-07-21	Chennai	Priya	Male	58	Cash on Delivery	3
+880	Desk	Furniture	42943.49	5	214717.45	2024-01-06	2024-01-13	Chennai	Arjun	Female	18	Cash on Delivery	5
+881	Pen	Stationery	31633.67	2	63267.34	2023-11-19	2023-11-22	Bengaluru	Meena	Male	28	Net Banking	3
+882	Laptop	Electronics	18092.92	3	54278.76	2023-11-23	2023-11-30	Hyderabad	Amit	Female	53	Cash on Delivery	1
+883	Notebook	Stationery	20865.78	1	20865.78	2023-11-13	2023-11-18	Bengaluru	Imran	Male	20	Net Banking	1
+884	Desk	Furniture	23877.14	5	119385.7	2024-02-24	2024-02-28	Bengaluru	Amit	Male	49	Credit Card	5
+885	Bag	Accessories	29014.31	1	29014.31	2023-11-05	2023-11-14	Mumbai	Kavita	Female	41	Debit Card	4
+886	Bag	Accessories	48173.89	4	192695.56	2023-09-09	2023-09-19	Kolkata	Arjun	Male	19	Cash on Delivery	2
+887	Notebook	Stationery	22538.94	5	112694.7	2023-03-11	2023-03-20	Chennai	Kavita	Female	45	Cash on Delivery	4
+888	Pen	Stationery	47810.42	4	191241.68	2024-02-02	2024-02-04	Kolkata	Meena	Female	22	UPI	1
+889	Chair	Furniture	47328.91	5	236644.55	2024-01-11	2024-01-20	Jaipur	Kavita	Male	58	UPI	5
+890	Bag	Accessories	27684.17	2	55368.34	2023-05-20	2023-05-29	Pune	Sneha	Male	49	Credit Card	3
+891	Printer	Electronics	5633.51	2	11267.02	2023-02-12	2023-02-19	Delhi	Arjun	Female	59	Credit Card	1
+892	Laptop	Electronics	35408.42	4	141633.68	2024-08-07	2024-08-12	Mumbai	Amit	Female	20	Net Banking	3
+893	Bag	Accessories	43673.46	4	174693.84	2023-04-05	2023-04-11	Jaipur	Arjun	Male	18	UPI	2
+894	Monitor	Electronics	35022.33	1	35022.33	2023-03-26	2023-03-30	Chennai	Arjun	Male	31	Debit Card	5
+895	Mouse	Electronics	12441.24	1	12441.24	2024-02-27	2024-03-05	Delhi	Neha	Female	41	Debit Card	3
+896	Laptop	Electronics	45230.35	4	180921.4	2023-07-24	2023-07-31	Kolkata	Rahul	Female	24	UPI	4
+897	Mouse	Electronics	22133.86	4	88535.44	2023-11-29	2023-12-01	Jaipur	Shoaib	Male	34	Cash on Delivery	4
+898	Mouse	Electronics	34879.23	4	139516.92	2024-07-06	2024-07-10	Hyderabad	Fatima	Male	25	Debit Card	1
+899	Printer	Electronics	32660.64	3	97981.92	2024-07-22	2024-07-27	Delhi	Ravi	Male	28	Cash on Delivery	3
+900	Desk	Furniture	23411.04	5	117055.2	2023-08-25	2023-09-01	Chennai	Priya	Male	40	Cash on Delivery	2
+901	Notebook	Stationery	16752.34	4	67009.36	2023-07-30	2023-08-02	Chennai	Nikhil	Male	27	Credit Card	5
+902	Notebook	Stationery	31243.4	5	156217.0	2023-04-13	2023-04-22	Hyderabad	Neha	Female	42	Net Banking	1
+903	Printer	Electronics	6463.0	5	32315.0	2024-07-15	2024-07-24	Hyderabad	Vikram	Female	34	Cash on Delivery	2
+904	Monitor	Electronics	32368.88	4	129475.52	2023-05-01	2023-05-07	Jaipur	Rahul	Female	37	Credit Card	3
+905	Desk	Furniture	717.13	5	3585.65	2023-03-13	2023-03-17	Jaipur	Sana	Female	25	Debit Card	5
+906	Laptop	Electronics	19028.04	4	76112.16	2023-09-21	2023-10-01	Kolkata	Arjun	Female	57	Net Banking	2
+907	Chair	Furniture	34038.84	3	102116.52	2023-12-15	2023-12-20	Chennai	Imran	Male	29	Credit Card	3
+908	Desk	Furniture	45538.95	2	91077.9	2024-01-23	2024-01-31	Kolkata	Imran	Female	59	Debit Card	4
+909	Monitor	Electronics	1283.52	5	6417.6	2024-07-11	2024-07-15	Jaipur	Kavita	Male	37	Net Banking	2
+910	Chair	Furniture	17276.84	5	86384.2	2023-07-07	2023-07-15	Bengaluru	Ravi	Male	21	Credit Card	4
+911	Monitor	Electronics	28044.68	1	28044.68	2024-05-06	2024-05-15	Mumbai	Kavita	Female	58	Debit Card	2
+912	Printer	Electronics	34918.28	4	139673.12	2023-07-08	2023-07-17	Hyderabad	Priya	Female	48	Debit Card	3
+913	Laptop	Electronics	11577.0	1	11577.0	2024-05-09	2024-05-12	Jaipur	Kavita	Male	47	Cash on Delivery	1
+914	Monitor	Electronics	24261.3	1	24261.3	2024-05-29	2024-06-04	Delhi	Sneha	Male	28	Cash on Delivery	4
+915	Mouse	Electronics	42549.36	3	127648.08	2024-02-26	2024-03-02	Pune	Fatima	Female	49	Net Banking	3
+916	Pen	Stationery	44013.62	5	220068.1	2023-08-16	2023-08-25	Pune	Priya	Female	52	Cash on Delivery	4
+917	Bag	Accessories	19988.21	1	19988.21	2023-05-21	2023-05-23	Mumbai	Sana	Female	55	Credit Card	3
+918	Chair	Furniture	22680.47	1	22680.47	2024-01-19	2024-01-28	Delhi	Shoaib	Male	38	Net Banking	3
+919	Notebook	Stationery	13192.6	2	26385.2	2023-09-22	2023-09-26	Chennai	Sana	Female	60	Credit Card	5
+920	Printer	Electronics	17556.41	2	35112.82	2023-06-10	2023-06-18	Kolkata	Arjun	Female	40	Credit Card	3
+921	Bag	Accessories	33436.72	1	33436.72	2023-06-09	2023-06-18	Pune	Sana	Female	28	Net Banking	3
+922	Pen	Stationery	29187.42	4	116749.68	2024-03-25	2024-04-01	Bengaluru	Kavita	Male	49	Net Banking	1
+923	Pen	Stationery	30468.13	2	60936.26	2024-07-09	2024-07-14	Chennai	Ravi	Female	18	Debit Card	3
+924	Monitor	Electronics	41963.48	5	209817.4	2023-03-29	2023-04-08	Mumbai	Vikram	Female	35	Credit Card	4
+925	Mouse	Electronics	45710.01	5	228550.05	2023-06-08	2023-06-14	Bengaluru	Meena	Male	54	Cash on Delivery	4
+926	Chair	Furniture	6773.49	1	6773.49	2023-08-06	2023-08-16	Pune	Meena	Male	44	Debit Card	1
+927	Chair	Furniture	35795.95	2	71591.9	2024-06-26	2024-07-04	Jaipur	Amit	Male	32	Cash on Delivery	5
+928	Bag	Accessories	8468.7	3	25406.1	2023-03-03	2023-03-07	Mumbai	Meena	Female	58	Cash on Delivery	1
+929	Notebook	Stationery	8851.42	3	26554.26	2024-05-07	2024-05-12	Pune	Kavita	Female	27	UPI	3
+930	Chair	Furniture	32848.51	4	131394.04	2023-05-31	2023-06-02	Hyderabad	Fatima	Female	54	UPI	2
+931	Bag	Accessories	45438.36	3	136315.08	2023-08-20	2023-08-30	Mumbai	Arjun	Female	60	UPI	1
+932	Mouse	Electronics	17216.12	2	34432.24	2023-01-26	2023-02-03	Delhi	Neha	Male	32	Net Banking	2
+933	Keyboard	Electronics	48839.58	2	97679.16	2023-10-18	2023-10-21	Chennai	Ravi	Male	24	Debit Card	4
+934	Printer	Electronics	7791.02	3	23373.06	2023-11-13	2023-11-18	Bengaluru	Sana	Male	23	Credit Card	1
+935	Notebook	Stationery	44476.88	3	133430.64	2024-01-10	2024-01-14	Hyderabad	Imran	Male	30	UPI	1
+936	Notebook	Stationery	43604.41	1	43604.41	2023-09-03	2023-09-07	Delhi	Kavita	Female	22	Credit Card	1
+937	Bag	Accessories	39145.74	5	195728.7	2023-12-16	2023-12-22	Hyderabad	Ravi	Male	39	Credit Card	3
+938	Desk	Furniture	39850.38	3	119551.14	2024-06-19	2024-06-28	Hyderabad	Shoaib	Male	50	Debit Card	3
+939	Monitor	Electronics	19044.16	1	19044.16	2023-02-12	2023-02-19	Hyderabad	Amit	Male	57	Net Banking	5
+940	Monitor	Electronics	31045.55	1	31045.55	2023-02-01	2023-02-11	Bengaluru	Nikhil	Male	43	Credit Card	2
+941	Printer	Electronics	33874.82	1	33874.82	2023-10-26	2023-11-02	Jaipur	Imran	Female	28	UPI	1
+942	Chair	Furniture	31367.02	1	31367.02	2023-03-10	2023-03-12	Jaipur	Vikram	Female	44	UPI	5
+943	Monitor	Electronics	20072.06	3	60216.18	2024-01-24	2024-01-29	Hyderabad	Kavita	Male	23	Debit Card	2
+944	Bag	Accessories	21407.23	4	85628.92	2023-03-24	2023-04-01	Pune	Nikhil	Male	45	Net Banking	1
+945	Notebook	Stationery	1103.3	5	5516.5	2023-05-12	2023-05-16	Delhi	Vikram	Female	38	Debit Card	3
+946	Laptop	Electronics	29999.88	1	29999.88	2023-12-23	2023-12-28	Mumbai	Imran	Female	19	Debit Card	3
+947	Desk	Furniture	48576.76	5	242883.8	2023-04-25	2023-04-27	Pune	Arjun	Male	42	Net Banking	2
+948	Bag	Accessories	39009.76	4	156039.04	2024-03-28	2024-04-05	Mumbai	Kavita	Female	18	Credit Card	1
+949	Mouse	Electronics	17271.76	2	34543.52	2023-05-06	2023-05-10	Jaipur	Arjun	Male	57	Credit Card	4
+950	Chair	Furniture	47778.79	4	191115.16	2023-03-12	2023-03-14	Bengaluru	Amit	Female	21	Credit Card	5
+951	Mouse	Electronics	21452.72	3	64358.16	2023-03-18	2023-03-21	Jaipur	Nikhil	Female	30	Debit Card	4
+952	Notebook	Stationery	1051.82	5	5259.1	2024-07-06	2024-07-14	Kolkata	Shoaib	Female	27	Cash on Delivery	1
+953	Laptop	Electronics	12029.21	4	48116.84	2023-03-26	2023-03-29	Bengaluru	Ravi	Male	60	Credit Card	2
+954	Mouse	Electronics	43897.28	2	87794.56	2023-09-20	2023-09-24	Delhi	Priya	Female	48	Cash on Delivery	3
+955	Bag	Accessories	7733.09	1	7733.09	2023-05-07	2023-05-09	Kolkata	Sana	Female	35	Credit Card	3
+956	Mouse	Electronics	47711.56	1	47711.56	2023-09-15	2023-09-23	Bengaluru	Rahul	Female	26	UPI	2
+957	Monitor	Electronics	37672.79	3	113018.37	2024-08-04	2024-08-09	Kolkata	Meena	Male	48	Credit Card	5
+958	Laptop	Electronics	49130.63	2	98261.26	2023-03-03	2023-03-10	Kolkata	Imran	Female	43	Net Banking	2
+959	Pen	Stationery	45986.53	5	229932.65	2023-01-09	2023-01-17	Jaipur	Meena	Male	35	Net Banking	4
+960	Bag	Accessories	24459.58	3	73378.74	2023-11-04	2023-11-13	Pune	Fatima	Female	60	Credit Card	3
+961	Chair	Furniture	11328.86	1	11328.86	2024-01-27	2024-02-05	Bengaluru	Amit	Male	31	Credit Card	2
+962	Keyboard	Electronics	22520.24	4	90080.96	2023-05-19	2023-05-28	Delhi	Kavita	Male	18	UPI	5
+963	Mouse	Electronics	40113.54	4	160454.16	2023-07-24	2023-07-29	Chennai	Ravi	Male	47	Credit Card	4
+964	Printer	Electronics	37087.92	2	74175.84	2024-02-02	2024-02-10	Bengaluru	Arjun	Male	49	Cash on Delivery	1
+965	Bag	Accessories	17845.71	3	53537.13	2023-11-07	2023-11-17	Delhi	Sana	Female	35	UPI	1
+966	Bag	Accessories	36388.95	3	109166.85	2024-06-28	2024-07-07	Kolkata	Ravi	Male	36	Cash on Delivery	5
+967	Bag	Accessories	9860.24	1	9860.24	2024-08-04	2024-08-09	Jaipur	Amit	Male	30	UPI	3
+968	Chair	Furniture	43103.55	4	172414.2	2023-11-22	2023-11-28	Pune	Priya	Female	29	Cash on Delivery	1
+969	Pen	Stationery	43131.59	3	129394.77	2023-12-31	2024-01-08	Pune	Sana	Female	41	Debit Card	5
+970	Laptop	Electronics	12342.63	5	61713.15	2024-02-22	2024-03-03	Delhi	Shoaib	Male	59	Net Banking	1
+971	Keyboard	Electronics	40908.22	2	81816.44	2024-02-21	2024-03-01	Jaipur	Priya	Female	55	Credit Card	1
+972	Mouse	Electronics	5179.3	1	5179.3	2024-03-18	2024-03-26	Chennai	Imran	Male	50	Debit Card	2
+973	Monitor	Electronics	29177.09	5	145885.45	2024-05-27	2024-06-02	Kolkata	Meena	Male	31	Net Banking	2
+974	Keyboard	Electronics	34895.72	2	69791.44	2023-10-02	2023-10-12	Kolkata	Kavita	Female	47	Credit Card	3
+975	Monitor	Electronics	3772.27	5	18861.35	2023-01-05	2023-01-13	Mumbai	Meena	Male	19	UPI	4
+976	Mouse	Electronics	28028.58	4	112114.32	2023-11-17	2023-11-23	Pune	Rahul	Male	58	Debit Card	1
+977	Desk	Furniture	14960.29	2	29920.58	2023-05-02	2023-05-11	Pune	Sana	Female	30	UPI	2
+978	Monitor	Electronics	20067.9	4	80271.6	2023-05-05	2023-05-14	Kolkata	Nikhil	Male	47	Cash on Delivery	2
+979	Keyboard	Electronics	37303.24	3	111909.72	2024-02-03	2024-02-05	Mumbai	Amit	Female	37	UPI	1
+980	Desk	Furniture	12816.29	2	25632.58	2023-07-14	2023-07-21	Hyderabad	Neha	Male	18	Cash on Delivery	1
+981	Chair	Furniture	28204.69	4	112818.76	2024-08-05	2024-08-09	Delhi	Neha	Male	32	Credit Card	3
+982	Printer	Electronics	11061.03	3	33183.09	2023-05-30	2023-06-01	Bengaluru	Priya	Male	47	Debit Card	3
+983	Mouse	Electronics	593.62	3	1780.86	2023-01-12	2023-01-22	Bengaluru	Rahul	Female	31	Debit Card	3
+984	Mouse	Electronics	22220.21	3	66660.63	2023-02-16	2023-02-19	Jaipur	Nikhil	Female	30	UPI	2
+985	Laptop	Electronics	35429.43	2	70858.86	2023-02-13	2023-02-23	Jaipur	Kavita	Male	28	Cash on Delivery	3
+986	Bag	Accessories	26999.54	4	107998.16	2023-03-02	2023-03-08	Hyderabad	Vikram	Male	18	Cash on Delivery	4
+987	Keyboard	Electronics	4735.16	2	9470.32	2023-09-09	2023-09-17	Pune	Sana	Male	32	Credit Card	1
+988	Keyboard	Electronics	5900.79	1	5900.79	2024-03-10	2024-03-19	Chennai	Sana	Male	60	Credit Card	4
+989	Bag	Accessories	18864.64	4	75458.56	2023-01-18	2023-01-27	Pune	Meena	Female	31	Cash on Delivery	3
+990	Keyboard	Electronics	11058.26	5	55291.3	2023-04-30	2023-05-03	Hyderabad	Ravi	Male	19	UPI	4
+991	Mouse	Electronics	13221.62	4	52886.48	2023-01-19	2023-01-21	Mumbai	Amit	Male	52	Debit Card	1
+992	Mouse	Electronics	23921.09	4	95684.36	2024-03-21	2024-03-25	Jaipur	Imran	Female	32	UPI	4
+993	Keyboard	Electronics	28409.82	1	28409.82	2023-10-20	2023-10-24	Pune	Imran	Female	47	Debit Card	2
+994	Printer	Electronics	30941.36	5	154706.8	2023-10-13	2023-10-17	Jaipur	Sneha	Female	55	Net Banking	4
+995	Notebook	Stationery	4919.74	5	24598.7	2024-04-20	2024-04-23	Hyderabad	Priya	Female	18	Credit Card	1
+996	Keyboard	Electronics	45142.91	3	135428.73	2023-03-18	2023-03-23	Mumbai	Nikhil	Male	58	Debit Card	5
+997	Desk	Furniture	17868.82	1	17868.82	2023-07-24	2023-08-03	Pune	Sana	Female	19	Debit Card	5
+998	Monitor	Electronics	42503.21	2	85006.42	2024-05-19	2024-05-25	Mumbai	Shoaib	Female	35	Credit Card	5
+999	Keyboard	Electronics	12478.49	1	12478.49	2023-12-13	2023-12-17	Jaipur	Imran	Female	24	UPI	1
+1000	Printer	Electronics	42664.11	2	85328.22	2023-04-16	2023-04-18	Kolkata	Nikhil	Male	39	Credit Card	3
